@@ -18,7 +18,6 @@ To enable SBST for NodeJs application, we implemented
 
 ## Quick build and run
 
----
 
 **Step 1.** In this repo, we provide a python script to build tools and all five case studies.
 
@@ -56,7 +55,6 @@ In `EMB-js/rest/ncs`, there would be a new folder named `coverage` which contain
 
 ## Build and run step by step
 
----
 **Build JavaScript Instrumentation**
 
 Go to `Evomaster\client-js\evomaster-client-js`, run
@@ -93,4 +91,3 @@ In this experiment, we use configurations like,
 - `--maxTime` for time budget setting;
 - `--blackbox` for white-box and black-box setting.
 - `--bbSwaggerUrl` for accessing schema of REST in black-box setting.
----
