@@ -1,0 +1,12 @@
+/.idea/
+/EMB-js/rest/cyclotron/node_modules/
+/EMB-js/rest/cyclotron/build/
+/EMB-js/rest/disease-sh-api/build/
+/EMB-js/rest/disease-sh-api/node_modules/
+/EMB-js/rest/ncs/build/
+/EMB-js/rest/ncs/node_modules/
+/EMB-js/rest/nestjs-realworld-example-app/build/
+/EMB-js/rest/nestjs-realworld-example-app/node_modules/
+/EMB-js/rest/scs/build/
+/EMB-js/rest/scs/node_modules/
+/EMB-js/rest/ncs/coverage/
