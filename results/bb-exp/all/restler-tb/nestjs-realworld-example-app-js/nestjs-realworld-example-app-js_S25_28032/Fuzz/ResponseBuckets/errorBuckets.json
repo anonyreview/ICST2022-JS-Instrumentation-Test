@@ -1,0 +1,3446 @@
+{
+  "400": {
+    "0303cab3-d3bc-464e-adb9-83ad13f58257": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/profiles/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "0338b161-4751-487f-964c-39c1f0d6ff02": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/tags",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "0cc519c1-e918-4cbc-891e-c10fe5139d51": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/articles/feed",
+            "query": "limit=1&offset=1",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "0ddd744d-4438-4a7c-8b57-9ec50e184a40": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/profiles/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "0fa382eb-b824-484f-a3eb-9644524cc407": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "DELETE",
+            "path": "/api/profiles/fuzzstring/follow",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"FollowerId and FollowingId cannot be equal.\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "DELETE",
+            "path": "/api/profiles/fuzzstring/follow",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"FollowerId and FollowingId cannot be equal.\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "DELETE",
+            "path": "/api/profiles/fuzzstring/follow",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"FollowerId and FollowingId cannot be equal.\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "DELETE",
+            "path": "/api/profiles/fuzzstring/follow",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"FollowerId and FollowingId cannot be equal.\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "DELETE",
+            "path": "/api/profiles/fuzzstring/follow",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"FollowerId and FollowingId cannot be equal.\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "DELETE",
+            "path": "/api/profiles/fuzzstring/follow",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"FollowerId and FollowingId cannot be equal.\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "DELETE",
+            "path": "/api/profiles/fuzzstring/follow",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"FollowerId and FollowingId cannot be equal.\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "DELETE",
+            "path": "/api/profiles/fuzzstring/follow",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"FollowerId and FollowingId cannot be equal.\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "DELETE",
+            "path": "/api/profiles/fuzzstring/follow",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"FollowerId and FollowingId cannot be equal.\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "DELETE",
+            "path": "/api/profiles/fuzzstring/follow",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"FollowerId and FollowingId cannot be equal.\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "11611e55-180e-43f6-bb4b-1403da7687b0": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/user",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "11981209-4edd-4d22-8647-6b11f785ed15": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "PUT",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"token\":\"fuzzstring\",\n            \"username\":\"fuzzstring\",\n            \"bio\":\"fuzzstring\",\n            \"image\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "13cc131c-b0b7-4722-8630-9fb24afe0dda": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/articles",
+            "query": "",
+            "body": "0"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"Unexpected token 0 in JSON at position 0\",\"error\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "PUT",
+            "path": "/api/user",
+            "query": "",
+            "body": "0"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"Unexpected token 0 in JSON at position 0\",\"error\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/user",
+            "query": "",
+            "body": "0"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"Unexpected token 0 in JSON at position 0\",\"error\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "0"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"Unexpected token 0 in JSON at position 0\",\"error\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "16f2e418-f44b-434a-9be7-6350af200c14": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "PUT",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"token\":\"fuzzstring\",\n            \"username\":\"fuzzstring\",\n            \"bio\":\"fuzzstring\",\n            \"image\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "1812f379-4fcf-410e-b427-549575f1238b": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/tags",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "18b1dd03-1211-40f9-86d9-ea9150537708": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/tags",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "1a089d0e-f50f-4f6b-bb41-d6381fbb934a": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "PUT",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"token\":\"fuzzstring\",\n            \"username\":\"fuzzstring\",\n            \"bio\":\"fuzzstring\",\n            \"image\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "1f89d68e-841e-440d-8d30-7aeb60255b92": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/tags",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "21e161d7-694a-40f4-841c-e13eb00dc61f": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/profiles/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "224a5e5f-47d4-43fd-b278-5f598f3e0d7f": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/profiles/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "2423be63-cf26-4c11-8924-57448d98462d": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/profiles/fuzzstring/follow",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"FollowerEmail and FollowingId cannot be equal.\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/profiles/fuzzstring/follow",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"FollowerEmail and FollowingId cannot be equal.\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/profiles/fuzzstring/follow",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"FollowerEmail and FollowingId cannot be equal.\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/profiles/fuzzstring/follow",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"FollowerEmail and FollowingId cannot be equal.\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/profiles/fuzzstring/follow",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"FollowerEmail and FollowingId cannot be equal.\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/profiles/fuzzstring/follow",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"FollowerEmail and FollowingId cannot be equal.\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/profiles/fuzzstring/follow",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"FollowerEmail and FollowingId cannot be equal.\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/profiles/fuzzstring/follow",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"FollowerEmail and FollowingId cannot be equal.\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/profiles/fuzzstring/follow",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"FollowerEmail and FollowingId cannot be equal.\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/profiles/fuzzstring/follow",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"FollowerEmail and FollowingId cannot be equal.\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "292e3841-78de-4140-a568-059c4f78a919": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "PUT",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"token\":\"fuzzstring\",\n            \"username\":\"fuzzstring\",\n            \"bio\":\"fuzzstring\",\n            \"image\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "2e78f10c-5d28-444c-879a-87aaf67f4027": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/articles/feed",
+            "query": "limit=1&offset=1",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "2ef891f8-8422-40ac-947a-d30784f6414b": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/user",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "305f646e-5a31-4664-890d-df843d522da1": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/tags",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "31339c72-9b3c-4800-a4c6-27c2b1e0c56b": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/articles/feed",
+            "query": "limit=1&offset=1",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "32e031e6-e133-4716-8419-1d03363ef628": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "PUT",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"token\":\"fuzzstring\",\n            \"username\":\"fuzzstring\",\n            \"bio\":\"fuzzstring\",\n            \"image\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "32fb9474-2f67-4014-894d-15b3e84d3d26": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/user",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "3467e4f4-5b50-47de-9a7f-5c037e7a00d8": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/profiles/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "370e3a63-e302-4efb-9ba0-77d996a32f94": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/profiles/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "37956cac-4eeb-4438-9030-7fd6d70e687c": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/articles/feed",
+            "query": "limit=1&offset=1",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "3a38f9c1-dce4-43c3-9115-0cd584dcf960": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/articles/feed",
+            "query": "limit=1&offset=1",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "3e4d9dbb-5dda-4d0e-85cb-9fce8aaa60c0": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/articles/feed",
+            "query": "limit=1&offset=1",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "3e776d56-e9f6-4f11-82de-726484362b2a": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/tags",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "3f3e7f4a-86e8-423f-87bb-ecd9d91702fb": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/user",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "3fc7f91e-4b79-4d37-b72f-4bd533bc1d90": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/articles/feed",
+            "query": "limit=1&offset=1",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "43839bef-229e-4dac-8347-d48a23ecc0da": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/tags",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "439c3d13-e853-48a5-b1f3-ec749cb14ec5": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/user",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "44d49bdd-10f5-48e0-ab76-bcc31639f56e": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/tags",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "50df709c-b6af-4c93-85df-cbdca07aaf02": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/user",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "53338553-c465-471c-8a8c-761abcd27239": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/profiles/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "566b0eee-e2d8-46cc-be4e-1c0f8f5093ec": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/user",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "5677e1e1-5ce8-4da9-a6a7-117e5820b907": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/articles/feed",
+            "query": "limit=1&offset=1",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "5b8ebd34-fcc2-42be-b81f-328d2e37e656": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/tags",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "5bd2d22c-a4ee-4ef5-baea-1526995a1390": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "{\"user\":{\"email\":0}}"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"message\":\"Input data validation failed\",\"errors\":{\"passwordisNotEmpty\":\"password should not be empty\"}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "{\"user\":{\"email\":false}}"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"message\":\"Input data validation failed\",\"errors\":{\"passwordisNotEmpty\":\"password should not be empty\"}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "{\"user\":{\"email\":[]}}"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"message\":\"Input data validation failed\",\"errors\":{\"passwordisNotEmpty\":\"password should not be empty\"}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "{\"user\":{\"email\":{ \"fuzz\" : false }}}"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"message\":\"Input data validation failed\",\"errors\":{\"passwordisNotEmpty\":\"password should not be empty\"}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "{\"user\":{\"email\":\"fuzzstring\"}}"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"message\":\"Input data validation failed\",\"errors\":{\"passwordisNotEmpty\":\"password should not be empty\"}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "5e955807-9eff-40f1-9fe4-5943c1d46d02": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/tags",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "6018f236-de8b-400f-8e2a-077720ff801c": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/articles/feed",
+            "query": "limit=1&offset=1",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "61870c59-7fe7-4c6f-88a3-b0ea24871b4b": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/user",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "644e134e-f2dd-4725-bb64-e4d2ddc91e36": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/user",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "6a06f365-c232-4365-9f17-26dc018f247d": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "PUT",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"token\":\"fuzzstring\",\n            \"username\":\"fuzzstring\",\n            \"bio\":\"fuzzstring\",\n            \"image\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "6ef95aba-863e-43d9-801e-9d6e2cab43ea": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "PUT",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"token\":\"fuzzstring\",\n            \"username\":\"fuzzstring\",\n            \"bio\":\"fuzzstring\",\n            \"image\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "6fa8ac06-093b-450d-b84c-d0ad2734758c": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/profiles/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "74b0ab47-9642-4e5f-914c-5399efd45631": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "{ \"fuzz\" : false }"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"No data submitted\",\"error\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "[]"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"No data submitted\",\"error\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "{\"user\":0}"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"No data submitted\",\"error\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "{\"user\":false}"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"No data submitted\",\"error\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "75353ea7-7571-403e-9b1e-c9ae529a3bd4": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/user",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "76b2d94e-454b-4263-8b5b-c6ce88756196": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "PUT",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"token\":\"fuzzstring\",\n            \"username\":\"fuzzstring\",\n            \"bio\":\"fuzzstring\",\n            \"image\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "797b9d0a-74c1-481d-9d78-2819a523dd31": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "PUT",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"token\":\"fuzzstring\",\n            \"username\":\"fuzzstring\",\n            \"bio\":\"fuzzstring\",\n            \"image\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "7beb8942-a5a6-4abb-9282-5d0c427cb7ab": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/user",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "7bf7a970-3083-438f-9428-ad98fb3f5205": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/profiles/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "7f449d5b-901f-4f16-8d3c-ab5128bba0ba": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/profiles/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "8214de17-01cb-4067-abec-573a575fd600": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/user",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "82441de9-a319-4a25-a9e6-79abbceb0ac2": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/profiles/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "8529c777-1ea6-46ca-a0b6-5c86dca9b12e": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/profiles/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "86fdb904-a63c-421f-b6be-fdf8e9085e6e": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "PUT",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"token\":\"fuzzstring\",\n            \"username\":\"fuzzstring\",\n            \"bio\":\"fuzzstring\",\n            \"image\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "8717b8dd-52ec-4519-a90d-adacd8510d0d": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/user",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "87eccc4c-f287-4053-b89a-5c8437196da2": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/user",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "8d3b6f00-437f-4fc2-8250-f771c0b0177b": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "PUT",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"token\":\"fuzzstring\",\n            \"username\":\"fuzzstring\",\n            \"bio\":\"fuzzstring\",\n            \"image\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "8dbc9c64-25ce-438e-a0de-cb6247eeb17c": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "PUT",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"token\":\"fuzzstring\",\n            \"username\":\"fuzzstring\",\n            \"bio\":\"fuzzstring\",\n            \"image\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "8e663b64-a7ec-42b0-9a98-e0a5da15c4ac": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/articles/feed",
+            "query": "limit=1&offset=1",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "943445b1-2c20-4f91-b307-93b558e7decc": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/tags",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "977c1351-c3a3-4cf8-9673-5c7e0f14e317": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "PUT",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"token\":\"fuzzstring\",\n            \"username\":\"fuzzstring\",\n            \"bio\":\"fuzzstring\",\n            \"image\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "9e35408e-9535-43b0-b206-9cc0c8006110": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/tags",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "a1b26ee7-505b-478a-8d35-bad42d4b1fe2": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/user",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "a1c83925-d19c-4ed1-8c92-cf5ce6b224d9": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/profiles/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "a269fae8-b534-4e7c-a982-b98ac337630d": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/user",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "a3c4c98d-0e07-4e02-bb02-f69a3cb10c58": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/tags",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "a8a22180-2ce6-4590-be2f-12fb0c3ef1eb": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "PUT",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"token\":\"fuzzstring\",\n            \"username\":\"fuzzstring\",\n            \"bio\":\"fuzzstring\",\n            \"image\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "a8ba1db0-9092-4b58-b1f8-5608193b8f97": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/profiles/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "a8e354b8-c581-41d2-931b-bc41a0ae8d46": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/articles/feed",
+            "query": "limit=1&offset=1",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "ae6d7315-2c78-4c55-8d3a-9a6305887b92": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/profiles/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "b189400b-2067-4ec2-aae1-b574885fd4a7": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/profiles/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "b4545693-591e-4e70-9a64-eb1975499ae0": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/articles",
+            "query": "",
+            "body": "\"fuzzstring\""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"Unexpected token \\\" in JSON at position 0\",\"error\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/articles",
+            "query": "",
+            "body": "false"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"Unexpected token f in JSON at position 0\",\"error\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "PUT",
+            "path": "/api/user",
+            "query": "",
+            "body": "\"fuzzstring\""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"Unexpected token \\\" in JSON at position 0\",\"error\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "PUT",
+            "path": "/api/user",
+            "query": "",
+            "body": "false"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"Unexpected token f in JSON at position 0\",\"error\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/user",
+            "query": "",
+            "body": "\"fuzzstring\""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"Unexpected token \\\" in JSON at position 0\",\"error\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/user",
+            "query": "",
+            "body": "false"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"Unexpected token f in JSON at position 0\",\"error\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "\"fuzzstring\""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"Unexpected token \\\" in JSON at position 0\",\"error\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "false"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"statusCode\":400,\"message\":\"Unexpected token f in JSON at position 0\",\"error\":\"Bad Request\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "b659b8e7-69c3-4fb0-83b6-e8d5dc2443d3": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "PUT",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"token\":\"fuzzstring\",\n            \"username\":\"fuzzstring\",\n            \"bio\":\"fuzzstring\",\n            \"image\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "b7bcff63-bac7-424f-931b-a82a05220870": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/articles/feed",
+            "query": "limit=1&offset=1",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "ba90ab23-40ae-4ba6-95f1-a7c499bcaee4": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "PUT",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"token\":\"fuzzstring\",\n            \"username\":\"fuzzstring\",\n            \"bio\":\"fuzzstring\",\n            \"image\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "bbdddd34-7d5f-41ff-aaaa-5d9b3d5cc17d": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/profiles/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "c19763a5-58de-4f0a-a7d7-25a6bbd9d807": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/articles/feed",
+            "query": "limit=1&offset=1",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "c25bc82b-dd31-4041-9cea-562885ae68ab": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/tags",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "c3996925-bd33-4d08-ac54-f7bb5c86cfff": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/profiles/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "c59feb7e-ffa0-478e-9b92-2a9e42f3360c": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/articles/feed",
+            "query": "limit=1&offset=1",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "c75c417c-b6e6-4683-a6a3-e02abc214fc3": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/articles/feed",
+            "query": "limit=1&offset=1",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "c835e3f4-3f72-46b2-bc33-1d1ca5f4e23f": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/articles/feed",
+            "query": "limit=1&offset=1",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "cad62adf-5d62-44e2-8861-9e276edab739": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "{\"user\":{\"password\":0}}"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"message\":\"Input data validation failed\",\"errors\":{\"emailisNotEmpty\":\"email should not be empty\"}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "{\"user\":{\"password\":false}}"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"message\":\"Input data validation failed\",\"errors\":{\"emailisNotEmpty\":\"email should not be empty\"}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "{\"user\":{\"password\":[]}}"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"message\":\"Input data validation failed\",\"errors\":{\"emailisNotEmpty\":\"email should not be empty\"}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "{\"user\":{ \"fuzz\" : false }}"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"message\":\"Input data validation failed\",\"errors\":{\"emailisNotEmpty\":\"email should not be empty\",\"passwordisNotEmpty\":\"password should not be empty\"}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "{\"user\":{\"password\":{ \"fuzz\" : false }}}"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"message\":\"Input data validation failed\",\"errors\":{\"emailisNotEmpty\":\"email should not be empty\"}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "{\"user\":{\"password\":\"fuzzstring\"}}"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "{\"message\":\"Input data validation failed\",\"errors\":{\"emailisNotEmpty\":\"email should not be empty\"}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "cb1d1243-d7d6-4845-9e76-42c4782857b0": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/profiles/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "cb3ef5e3-b014-4890-a657-00c7e7de8482": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/tags",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "d459bc06-6ac8-4c84-8c97-99bfd901780a": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/articles/feed",
+            "query": "limit=1&offset=1",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "d81fc8d8-b82e-4a99-b28f-505c5c06dcce": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/articles/feed",
+            "query": "limit=1&offset=1",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "defc4bd6-2308-41d8-a933-b58af8b126ad": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/user",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "e5650b97-35f8-4014-a937-f6ce4deabfdc": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "PUT",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"token\":\"fuzzstring\",\n            \"username\":\"fuzzstring\",\n            \"bio\":\"fuzzstring\",\n            \"image\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "e6211024-de10-4a9e-bf38-a65f9238679b": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/tags",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "e76e292a-3c70-4f56-87c6-6c080f304f8c": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "PUT",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"token\":\"fuzzstring\",\n            \"username\":\"fuzzstring\",\n            \"bio\":\"fuzzstring\",\n            \"image\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "e81b9b71-1f81-492b-8f60-6d7ccb7a4096": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/articles/feed",
+            "query": "limit=1&offset=1",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "edc93211-e2bd-490b-a250-d18c4c3d1328": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/user",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "f9838533-faef-4ad8-b4b0-67472250d14c": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/tags",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "fa18c1bd-3d50-47f5-9780-44987366a590": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/tags",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "fcd58a80-cbf0-4469-a56b-cdf0f04178f7": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/tags",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 400,
+            "codeDescription": "Bad Request",
+            "content": "",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ]
+  },
+  "401": {
+    "918254ac-d951-4303-bb45-83db9bc95b86": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"password\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 401,
+            "codeDescription": "Unauthorized",
+            "content": "{\"errors\":{\"User\":\" not found\"}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"password\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 401,
+            "codeDescription": "Unauthorized",
+            "content": "{\"errors\":{\"User\":\" not found\"}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"password\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 401,
+            "codeDescription": "Unauthorized",
+            "content": "{\"errors\":{\"User\":\" not found\"}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"password\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 401,
+            "codeDescription": "Unauthorized",
+            "content": "{\"errors\":{\"User\":\" not found\"}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"password\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 401,
+            "codeDescription": "Unauthorized",
+            "content": "{\"errors\":{\"User\":\" not found\"}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"password\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 401,
+            "codeDescription": "Unauthorized",
+            "content": "{\"errors\":{\"User\":\" not found\"}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"password\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 401,
+            "codeDescription": "Unauthorized",
+            "content": "{\"errors\":{\"User\":\" not found\"}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"password\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 401,
+            "codeDescription": "Unauthorized",
+            "content": "{\"errors\":{\"User\":\" not found\"}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"password\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 401,
+            "codeDescription": "Unauthorized",
+            "content": "{\"errors\":{\"User\":\" not found\"}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/users/login",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"email\":\"fuzzstring\",\n            \"password\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 401,
+            "codeDescription": "Unauthorized",
+            "content": "{\"errors\":{\"User\":\" not found\"}}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ]
+  },
+  "404": {
+    "05270162-f76f-450b-8c8f-ed87a3bd4a8d": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"username\":\"fuzzstring\",\n            \"email\":\"fuzzstring\",\n            \"password\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"statusCode\":404,\"message\":\"Cannot POST /api/user\",\"error\":\"Not Found\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"username\":\"fuzzstring\",\n            \"email\":\"fuzzstring\",\n            \"password\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"statusCode\":404,\"message\":\"Cannot POST /api/user\",\"error\":\"Not Found\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"username\":\"fuzzstring\",\n            \"email\":\"fuzzstring\",\n            \"password\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"statusCode\":404,\"message\":\"Cannot POST /api/user\",\"error\":\"Not Found\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"username\":\"fuzzstring\",\n            \"email\":\"fuzzstring\",\n            \"password\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"statusCode\":404,\"message\":\"Cannot POST /api/user\",\"error\":\"Not Found\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"username\":\"fuzzstring\",\n            \"email\":\"fuzzstring\",\n            \"password\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"statusCode\":404,\"message\":\"Cannot POST /api/user\",\"error\":\"Not Found\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"username\":\"fuzzstring\",\n            \"email\":\"fuzzstring\",\n            \"password\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"statusCode\":404,\"message\":\"Cannot POST /api/user\",\"error\":\"Not Found\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"username\":\"fuzzstring\",\n            \"email\":\"fuzzstring\",\n            \"password\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"statusCode\":404,\"message\":\"Cannot POST /api/user\",\"error\":\"Not Found\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"username\":\"fuzzstring\",\n            \"email\":\"fuzzstring\",\n            \"password\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"statusCode\":404,\"message\":\"Cannot POST /api/user\",\"error\":\"Not Found\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"username\":\"fuzzstring\",\n            \"email\":\"fuzzstring\",\n            \"password\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"statusCode\":404,\"message\":\"Cannot POST /api/user\",\"error\":\"Not Found\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/user",
+            "query": "",
+            "body": "{\n    \"user\":\n        {\n            \"username\":\"fuzzstring\",\n            \"email\":\"fuzzstring\",\n            \"password\":\"fuzzstring\"\n        }\n    }\r\n"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"statusCode\":404,\"message\":\"Cannot POST /api/user\",\"error\":\"Not Found\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ]
+  },
+  "500": {
+    "e27bd45b-f74c-4582-8119-6319f0c69ded": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/articles",
+            "query": "",
+            "body": "{\"article\":{\"description\":0}}"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 500,
+            "codeDescription": "Internal Server Error",
+            "content": "{\"statusCode\":500,\"message\":\"Internal server error\"}",
+            "isFailure": true,
+            "isBug": true
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/articles",
+            "query": "",
+            "body": "{\"article\":{\"description\":false}}"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 500,
+            "codeDescription": "Internal Server Error",
+            "content": "{\"statusCode\":500,\"message\":\"Internal server error\"}",
+            "isFailure": true,
+            "isBug": true
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/articles",
+            "query": "",
+            "body": "{\"article\":{\"description\":[]}}"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 500,
+            "codeDescription": "Internal Server Error",
+            "content": "{\"statusCode\":500,\"message\":\"Internal server error\"}",
+            "isFailure": true,
+            "isBug": true
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/articles",
+            "query": "",
+            "body": "{\"article\":{\"title\":[],\"description\":\"fuzzstring\",\"body\":\"\",\"tagList\":[\"fuzzstring\"]}}"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 500,
+            "codeDescription": "Internal Server Error",
+            "content": "{\"statusCode\":500,\"message\":\"Internal server error\"}",
+            "isFailure": true,
+            "isBug": true
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/articles",
+            "query": "",
+            "body": "{\"article\":{\"title\":\"fuzzstring\",\"description\":\"fuzzstring\",\"body\":\"\",\"tagList\":{ \"fuzz\" : false }}}"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 500,
+            "codeDescription": "Internal Server Error",
+            "content": "{\"statusCode\":500,\"message\":\"Internal server error\"}",
+            "isFailure": true,
+            "isBug": true
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/articles",
+            "query": "",
+            "body": "{\"article\":{\"title\":\"fuzzstring\",\"description\":\"fuzzstring\",\"body\":\"\",\"tagList\":{ \"fuzz\" : false }}}"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 500,
+            "codeDescription": "Internal Server Error",
+            "content": "{\"statusCode\":500,\"message\":\"Internal server error\"}",
+            "isFailure": true,
+            "isBug": true
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/articles",
+            "query": "",
+            "body": "{\"article\":{\"title\":\"fuzzstring\",\"description\":[],\"body\":\"\",\"tagList\":[\"fuzzstring\"]}}"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 500,
+            "codeDescription": "Internal Server Error",
+            "content": "{\"statusCode\":500,\"message\":\"Internal server error\"}",
+            "isFailure": true,
+            "isBug": true
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/articles",
+            "query": "",
+            "body": "{ \"fuzz\" : false }"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 500,
+            "codeDescription": "Internal Server Error",
+            "content": "{\"statusCode\":500,\"message\":\"Internal server error\"}",
+            "isFailure": true,
+            "isBug": true
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/articles",
+            "query": "",
+            "body": "{ \"fuzz\" : false }"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 500,
+            "codeDescription": "Internal Server Error",
+            "content": "{\"statusCode\":500,\"message\":\"Internal server error\"}",
+            "isFailure": true,
+            "isBug": true
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "POST",
+            "path": "/api/articles",
+            "query": "",
+            "body": "{\"article\":\"fuzzstring\"}"
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 500,
+            "codeDescription": "Internal Server Error",
+            "content": "{\"statusCode\":500,\"message\":\"Internal server error\"}",
+            "isFailure": true,
+            "isBug": true
+          }
+        }
+      }
+    ]
+  }
+}

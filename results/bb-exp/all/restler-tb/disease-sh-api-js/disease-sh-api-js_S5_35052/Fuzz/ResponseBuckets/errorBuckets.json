@@ -1,0 +1,761 @@
+{
+  "404": {
+    "2245c955-5e36-4145-bb61-810aeecd225c": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/nyt/counties/fuzzstring",
+            "query": "lastdays=fuzzstring",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"County not found or no data found for county\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "27d472b3-a141-4267-91e7-89370ddc7b1a": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/nyt/states/fuzzstring",
+            "query": "lastdays=fuzzstring",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"State not found or no data found for state\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "4b2d6c25-ac75-41e9-af26-5ec6f53cffb0": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/historical/usacounties/fuzzstring",
+            "query": "lastdays=fuzzstring",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"State not found or doesn\\'t have any historical county data\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "663f1a47-ed56-49f4-b523-c2b9c41694a5": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/jhucsse/counties/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"County not found\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "80538626-4c2c-4578-be4d-e92b463a14b6": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/gov/fuzzstring",
+            "query": "allowNull=0",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Country \\'fuzzstring\\' not found or no data found for country\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/gov/fuzzstring",
+            "query": "allowNull=1",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Country \\'fuzzstring\\' not found or no data found for country\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/gov/fuzzstring",
+            "query": "allowNull=false",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Country \\'fuzzstring\\' not found or no data found for country\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/gov/fuzzstring",
+            "query": "allowNull=true",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Country \\'fuzzstring\\' not found or no data found for country\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/apple/countries/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Country \\'fuzzstring\\' not found or no data found for county\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "8d76b5fd-918c-454c-a3e6-b622e565eb1d": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/states/fuzzstring",
+            "query": "allowNull=true&yesterday=true",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"State not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/states/fuzzstring",
+            "query": "allowNull=0&yesterday=0",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"State not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/states/fuzzstring",
+            "query": "allowNull=1&yesterday=0",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"State not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/states/fuzzstring",
+            "query": "allowNull=false&yesterday=0",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"State not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/states/fuzzstring",
+            "query": "allowNull=true&yesterday=0",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"State not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/states/fuzzstring",
+            "query": "allowNull=0&yesterday=1",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"State not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/states/fuzzstring",
+            "query": "allowNull=1&yesterday=1",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"State not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/states/fuzzstring",
+            "query": "allowNull=false&yesterday=1",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"State not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/states/fuzzstring",
+            "query": "allowNull=true&yesterday=1",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"State not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/states/fuzzstring",
+            "query": "allowNull=0&yesterday=false",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"State not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "ad7227ab-ec76-4e96-acdc-d9cad3065518": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/continents/fuzzstring",
+            "query": "allowNull=0&strict=true&twoDaysAgo=1&yesterday=true",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Continent not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/continents/fuzzstring",
+            "query": "allowNull=1&strict=true&twoDaysAgo=1&yesterday=true",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Continent not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/continents/fuzzstring",
+            "query": "allowNull=false&strict=true&twoDaysAgo=1&yesterday=true",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Continent not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/continents/fuzzstring",
+            "query": "allowNull=true&strict=true&twoDaysAgo=1&yesterday=true",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Continent not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/continents/fuzzstring",
+            "query": "allowNull=0&strict=false&twoDaysAgo=false&yesterday=true",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Continent not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/continents/fuzzstring",
+            "query": "allowNull=1&strict=false&twoDaysAgo=false&yesterday=true",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Continent not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/continents/fuzzstring",
+            "query": "allowNull=false&strict=false&twoDaysAgo=false&yesterday=true",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Continent not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/continents/fuzzstring",
+            "query": "allowNull=true&strict=false&twoDaysAgo=false&yesterday=true",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Continent not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/continents/fuzzstring",
+            "query": "allowNull=0&strict=true&twoDaysAgo=false&yesterday=true",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Continent not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/continents/fuzzstring",
+            "query": "allowNull=1&strict=true&twoDaysAgo=false&yesterday=true",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Continent not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ],
+    "b36405f3-fb9a-4e08-8c36-a14b5db9fed1": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/historical/fuzzstring/fuzzstring",
+            "query": "lastdays=fuzzstring",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Country not found or doesn\\'t have any historical data\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/historical/fuzzstring",
+            "query": "lastdays=fuzzstring",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Country not found or doesn\\'t have any historical data\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/countries/fuzzstring",
+            "query": "allowNull=0&twoDaysAgo=true&yesterday=false",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Country not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/countries/fuzzstring",
+            "query": "allowNull=1&twoDaysAgo=true&yesterday=false",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Country not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/countries/fuzzstring",
+            "query": "allowNull=false&twoDaysAgo=true&yesterday=false",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Country not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/countries/fuzzstring",
+            "query": "allowNull=true&twoDaysAgo=true&yesterday=false",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Country not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/countries/fuzzstring",
+            "query": "allowNull=0&twoDaysAgo=0&yesterday=true",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Country not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/countries/fuzzstring",
+            "query": "allowNull=1&twoDaysAgo=0&yesterday=true",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Country not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/countries/fuzzstring",
+            "query": "allowNull=false&twoDaysAgo=0&yesterday=true",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Country not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/v3/covid-19/countries/fuzzstring",
+            "query": "allowNull=true&twoDaysAgo=0&yesterday=true",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 404,
+            "codeDescription": "Not Found",
+            "content": "{\"message\":\"Country not found or doesn\\'t have any cases\"}",
+            "isFailure": true,
+            "isBug": false
+          }
+        }
+      }
+    ]
+  }
+}

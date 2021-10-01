@@ -1,0 +1,428 @@
+{
+  "numberOfDocumentedOperations": 19,
+  "numberOfProcessedOperations": 19,
+  "numberOfOperationsWithValidationErrors": 0,
+  "numberOfOperationsWithTestedErrorStatusCode": 0,
+  "numberOfOperationsWithTestedSuccessfulStatusCode": 0,
+  "numberOfOperationsWithTestedFailureStatusCode": 0,
+  "numberOfOperationsWhichRequireAuthorization": 0,
+  "numberOfOperationsWithExceptions": 0,
+  "successfulOperationsRatio": 0.0,
+  "operationsResults": {
+    "getCurrentUser": {
+      "exceptions": [],
+      "operationId": "getCurrentUser",
+      "responseCoverage": {
+        "operationId": "getCurrentUser",
+        "operationPath": "/user",
+        "numberOfDocumentedStatusCodes": 3,
+        "numberOfTestedStatusCodes": 0,
+        "statusCodeCoverageRatio": 0.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 5,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "422"
+        ],
+        "listOfTestedStatusCodes": [],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 0,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "updateArticle": {
+      "exceptions": [],
+      "operationId": "updateArticle",
+      "responseCoverage": {
+        "operationId": "updateArticle",
+        "operationPath": "/articles/{slug}",
+        "numberOfDocumentedStatusCodes": 3,
+        "numberOfTestedStatusCodes": 0,
+        "statusCodeCoverageRatio": 0.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 5,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "422"
+        ],
+        "listOfTestedStatusCodes": [],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 0,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "tagsGet": {
+      "exceptions": [],
+      "operationId": "tagsGet",
+      "responseCoverage": {
+        "operationId": "tagsGet",
+        "operationPath": "/tags",
+        "numberOfDocumentedStatusCodes": 2,
+        "numberOfTestedStatusCodes": 0,
+        "statusCodeCoverageRatio": 0.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 5,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "422"
+        ],
+        "listOfTestedStatusCodes": [],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 0,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "createArticle": {
+      "exceptions": [],
+      "operationId": "createArticle",
+      "responseCoverage": {
+        "operationId": "createArticle",
+        "operationPath": "/articles",
+        "numberOfDocumentedStatusCodes": 3,
+        "numberOfTestedStatusCodes": 0,
+        "statusCodeCoverageRatio": 0.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 5,
+        "listOfDocumentedStatusCodes": [
+          "201",
+          "401",
+          "422"
+        ],
+        "listOfTestedStatusCodes": [],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 0,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "getArticle": {
+      "exceptions": [],
+      "operationId": "getArticle",
+      "responseCoverage": {
+        "operationId": "getArticle",
+        "operationPath": "/articles/{slug}",
+        "numberOfDocumentedStatusCodes": 2,
+        "numberOfTestedStatusCodes": 0,
+        "statusCodeCoverageRatio": 0.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 5,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "422"
+        ],
+        "listOfTestedStatusCodes": [],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 0,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "getArticlesFeed": {
+      "exceptions": [],
+      "operationId": "getArticlesFeed",
+      "responseCoverage": {
+        "operationId": "getArticlesFeed",
+        "operationPath": "/articles/feed",
+        "numberOfDocumentedStatusCodes": 3,
+        "numberOfTestedStatusCodes": 0,
+        "statusCodeCoverageRatio": 0.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 5,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "422"
+        ],
+        "listOfTestedStatusCodes": [],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 0,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "getArticles": {
+      "exceptions": [],
+      "operationId": "getArticles",
+      "responseCoverage": {
+        "operationId": "getArticles",
+        "operationPath": "/articles",
+        "numberOfDocumentedStatusCodes": 3,
+        "numberOfTestedStatusCodes": 0,
+        "statusCodeCoverageRatio": 0.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 5,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "422"
+        ],
+        "listOfTestedStatusCodes": [],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 0,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "deleteArticleFavorite": {
+      "exceptions": [],
+      "operationId": "deleteArticleFavorite",
+      "responseCoverage": {
+        "operationId": "deleteArticleFavorite",
+        "operationPath": "/articles/{slug}/favorite",
+        "numberOfDocumentedStatusCodes": 3,
+        "numberOfTestedStatusCodes": 0,
+        "statusCodeCoverageRatio": 0.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 5,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "422"
+        ],
+        "listOfTestedStatusCodes": [],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 0,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "login": {
+      "exceptions": [],
+      "operationId": "login",
+      "responseCoverage": {
+        "operationId": "login",
+        "operationPath": "/users/login",
+        "numberOfDocumentedStatusCodes": 3,
+        "numberOfTestedStatusCodes": 0,
+        "statusCodeCoverageRatio": 0.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 5,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "422"
+        ],
+        "listOfTestedStatusCodes": [],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 0,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "createArticleFavorite": {
+      "exceptions": [],
+      "operationId": "createArticleFavorite",
+      "responseCoverage": {
+        "operationId": "createArticleFavorite",
+        "operationPath": "/articles/{slug}/favorite",
+        "numberOfDocumentedStatusCodes": 3,
+        "numberOfTestedStatusCodes": 0,
+        "statusCodeCoverageRatio": 0.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 5,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "422"
+        ],
+        "listOfTestedStatusCodes": [],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 0,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "deleteArticleComment": {
+      "exceptions": [],
+      "operationId": "deleteArticleComment",
+      "responseCoverage": {
+        "operationId": "deleteArticleComment",
+        "operationPath": "/articles/{slug}/comments/{id}",
+        "numberOfDocumentedStatusCodes": 3,
+        "numberOfTestedStatusCodes": 0,
+        "statusCodeCoverageRatio": 0.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 5,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "422"
+        ],
+        "listOfTestedStatusCodes": [],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 0,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "followUserByUsername": {
+      "exceptions": [],
+      "operationId": "followUserByUsername",
+      "responseCoverage": {
+        "operationId": "followUserByUsername",
+        "operationPath": "/profiles/{username}/follow",
+        "numberOfDocumentedStatusCodes": 3,
+        "numberOfTestedStatusCodes": 0,
+        "statusCodeCoverageRatio": 0.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 5,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "422"
+        ],
+        "listOfTestedStatusCodes": [],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 0,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "deleteArticle": {
+      "exceptions": [],
+      "operationId": "deleteArticle",
+      "responseCoverage": {
+        "operationId": "deleteArticle",
+        "operationPath": "/articles/{slug}",
+        "numberOfDocumentedStatusCodes": 3,
+        "numberOfTestedStatusCodes": 0,
+        "statusCodeCoverageRatio": 0.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 5,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "422"
+        ],
+        "listOfTestedStatusCodes": [],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 0,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "getProfileByUsername": {
+      "exceptions": [],
+      "operationId": "getProfileByUsername",
+      "responseCoverage": {
+        "operationId": "getProfileByUsername",
+        "operationPath": "/profiles/{username}",
+        "numberOfDocumentedStatusCodes": 3,
+        "numberOfTestedStatusCodes": 0,
+        "statusCodeCoverageRatio": 0.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 5,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "422"
+        ],
+        "listOfTestedStatusCodes": [],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 0,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "updateCurrentUser": {
+      "exceptions": [],
+      "operationId": "updateCurrentUser",
+      "responseCoverage": {
+        "operationId": "updateCurrentUser",
+        "operationPath": "/user",
+        "numberOfDocumentedStatusCodes": 3,
+        "numberOfTestedStatusCodes": 0,
+        "statusCodeCoverageRatio": 0.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 5,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "422"
+        ],
+        "listOfTestedStatusCodes": [],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 0,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "getArticleComments": {
+      "exceptions": [],
+      "operationId": "getArticleComments",
+      "responseCoverage": {
+        "operationId": "getArticleComments",
+        "operationPath": "/articles/{slug}/comments",
+        "numberOfDocumentedStatusCodes": 3,
+        "numberOfTestedStatusCodes": 0,
+        "statusCodeCoverageRatio": 0.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 5,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "422"
+        ],
+        "listOfTestedStatusCodes": [],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 0,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "createUser": {
+      "exceptions": [],
+      "operationId": "createUser",
+      "responseCoverage": {
+        "operationId": "createUser",
+        "operationPath": "/user",
+        "numberOfDocumentedStatusCodes": 2,
+        "numberOfTestedStatusCodes": 0,
+        "statusCodeCoverageRatio": 0.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 5,
+        "listOfDocumentedStatusCodes": [
+          "201",
+          "422"
+        ],
+        "listOfTestedStatusCodes": [],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 0,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "unfollowUserByUsername": {
+      "exceptions": [],
+      "operationId": "unfollowUserByUsername",
+      "responseCoverage": {
+        "operationId": "unfollowUserByUsername",
+        "operationPath": "/profiles/{username}/follow",
+        "numberOfDocumentedStatusCodes": 3,
+        "numberOfTestedStatusCodes": 0,
+        "statusCodeCoverageRatio": 0.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 5,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "422"
+        ],
+        "listOfTestedStatusCodes": [],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 0,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "createArticleComment": {
+      "exceptions": [],
+      "operationId": "createArticleComment",
+      "responseCoverage": {
+        "operationId": "createArticleComment",
+        "operationPath": "/articles/{slug}/comments",
+        "numberOfDocumentedStatusCodes": 3,
+        "numberOfTestedStatusCodes": 0,
+        "statusCodeCoverageRatio": 0.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 5,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "422"
+        ],
+        "listOfTestedStatusCodes": [],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 0,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "responseCoverage": {
+    "401": [],
+    "403": [],
+    "404": [
+      {
+        "testSteps": [
+          {
+            "executionResult": {
+              "requestHeaders": {
+                "Accept": [
+                  "application/json"
+                ],
+                "Content-Type": [
+                  "application/json"
+                ],
+                "User-Agent": [
+                  "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0"
+                ]
+              },
+              "requestUrl": "http://localhost:20052//api/gammq/54.88224615289785/-1.8029503460311952E9",
+              "responseBody": "\u003c!DOCTYPE html\u003e\n\u003chtml lang\u003d\"en\"\u003e\n\u003chead\u003e\n\u003cmeta charset\u003d\"utf-8\"\u003e\n\u003ctitle\u003eError\u003c/title\u003e\n\u003c/head\u003e\n\u003cbody\u003e\n\u003cpre\u003eCannot GET //api/gammq/54.88224615289785/-1.8029503460311952E9\u003c/pre\u003e\n\u003c/body\u003e\n\u003c/html\u003e\n",
+              "responseHeaders": {
+                "X-Powered-By": [
+                  "Express"
+                ],
+                "Content-Security-Policy": [
+                  "default-src \u0027none\u0027"
+                ],
+                "X-Content-Type-Options": [
+                  "nosniff"
+                ],
+                "Content-Type": [
+                  "text/html; charset\u003dutf-8"
+                ],
+                "Content-Length": [
+                  "189"
+                ],
+                "Date": [
+                  "Fri, 03 Sep 2021 22:35:09 GMT"
+                ],
+                "Connection": [
+                  "keep-alive"
+                ],
+                "Keep-Alive": [
+                  "timeout\u003d5"
+                ],
+                "OkHttp-Sent-Millis": [
+                  "1630708509660"
+                ],
+                "OkHttp-Received-Millis": [
+                  "1630708509660"
+                ]
+              },
+              "statusCode": 404,
+              "validationErrors": []
+            },
+            "httpMethod": "GET",
+            "operationId": "gammqUsingGET",
+            "parameters": [
+              {
+                "className": "java.lang.Double",
+                "parameterName": "a",
+                "sanitizedName": "a",
+                "value": 54.88224615289785
+              },
+              {
+                "className": "java.lang.Double",
+                "parameterName": "x",
+                "sanitizedName": "x",
+                "value": -1.8029503460311952E9
+              }
+            ],
+            "statusCode": 404
+          }
+        ],
+        "authentication": {
+          "authenticated": false
+        }
+      },
+      {
+        "testSteps": [
+          {
+            "executionResult": {
+              "requestHeaders": {
+                "Accept": [
+                  "application/json"
+                ],
+                "Content-Type": [
+                  "application/json"
+                ],
+                "User-Agent": [
+                  "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0"
+                ]
+              },
+              "requestUrl": "http://localhost:20052//api/gammq/92.92000959482876/74.49123456513524",
+              "responseBody": "\u003c!DOCTYPE html\u003e\n\u003chtml lang\u003d\"en\"\u003e\n\u003chead\u003e\n\u003cmeta charset\u003d\"utf-8\"\u003e\n\u003ctitle\u003eError\u003c/title\u003e\n\u003c/head\u003e\n\u003cbody\u003e\n\u003cpre\u003eCannot GET //api/gammq/92.92000959482876/74.49123456513524\u003c/pre\u003e\n\u003c/body\u003e\n\u003c/html\u003e\n",
+              "responseHeaders": {
+                "X-Powered-By": [
+                  "Express"
+                ],
+                "Content-Security-Policy": [
+                  "default-src \u0027none\u0027"
+                ],
+                "X-Content-Type-Options": [
+                  "nosniff"
+                ],
+                "Content-Type": [
+                  "text/html; charset\u003dutf-8"
+                ],
+                "Content-Length": [
+                  "185"
+                ],
+                "Date": [
+                  "Fri, 03 Sep 2021 22:35:09 GMT"
+                ],
+                "Connection": [
+                  "keep-alive"
+                ],
+                "Keep-Alive": [
+                  "timeout\u003d5"
+                ],
+                "OkHttp-Sent-Millis": [
+                  "1630708509660"
+                ],
+                "OkHttp-Received-Millis": [
+                  "1630708509660"
+                ]
+              },
+              "statusCode": 404,
+              "validationErrors": []
+            },
+            "httpMethod": "GET",
+            "operationId": "gammqUsingGET",
+            "parameters": [
+              {
+                "className": "java.lang.Double",
+                "parameterName": "a",
+                "sanitizedName": "a",
+                "value": 92.92000959482876
+              },
+              {
+                "className": "java.lang.Double",
+                "parameterName": "x",
+                "sanitizedName": "x",
+                "value": 74.49123456513524
+              }
+            ],
+            "statusCode": 404
+          }
+        ],
+        "authentication": {
+          "authenticated": false
+        }
+      },
+      {
+        "testSteps": [
+          {
+            "executionResult": {
+              "requestHeaders": {
+                "Accept": [
+                  "application/json"
+                ],
+                "Content-Type": [
+                  "application/json"
+                ],
+                "User-Agent": [
+                  "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0"
+                ]
+              },
+              "requestUrl": "http://localhost:20052//api/gammq/32.177327798543644/-1.933827842642674E9",
+              "responseBody": "\u003c!DOCTYPE html\u003e\n\u003chtml lang\u003d\"en\"\u003e\n\u003chead\u003e\n\u003cmeta charset\u003d\"utf-8\"\u003e\n\u003ctitle\u003eError\u003c/title\u003e\n\u003c/head\u003e\n\u003cbody\u003e\n\u003cpre\u003eCannot GET //api/gammq/32.177327798543644/-1.933827842642674E9\u003c/pre\u003e\n\u003c/body\u003e\n\u003c/html\u003e\n",
+              "responseHeaders": {
+                "X-Powered-By": [
+                  "Express"
+                ],
+                "Content-Security-Policy": [
+                  "default-src \u0027none\u0027"
+                ],
+                "X-Content-Type-Options": [
+                  "nosniff"
+                ],
+                "Content-Type": [
+                  "text/html; charset\u003dutf-8"
+                ],
+                "Content-Length": [
+                  "189"
+                ],
+                "Date": [
+                  "Fri, 03 Sep 2021 22:35:09 GMT"
+                ],
+                "Connection": [
+                  "keep-alive"
+                ],
+                "Keep-Alive": [
+                  "timeout\u003d5"
+                ],
+                "OkHttp-Sent-Millis": [
+                  "1630708509660"
+                ],
+                "OkHttp-Received-Millis": [
+                  "1630708509660"
+                ]
+              },
+              "statusCode": 404,
+              "validationErrors": []
+            },
+            "httpMethod": "GET",
+            "operationId": "gammqUsingGET",
+            "parameters": [
+              {
+                "className": "java.lang.Double",
+                "parameterName": "a",
+                "sanitizedName": "a",
+                "value": 32.177327798543644
+              },
+              {
+                "className": "java.lang.Double",
+                "parameterName": "x",
+                "sanitizedName": "x",
+                "value": -1.933827842642674E9
+              }
+            ],
+            "statusCode": 404
+          }
+        ],
+        "authentication": {
+          "authenticated": false
+        }
+      },
+      {
+        "testSteps": [
+          {
+            "executionResult": {
+              "requestHeaders": {
+                "Accept": [
+                  "application/json"
+                ],
+                "Content-Type": [
+                  "application/json"
+                ],
+                "User-Agent": [
+                  "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0"
+                ]
+              },
+              "requestUrl": "http://localhost:20052//api/gammq/3.6424274906296072/1.3471679957252073E8",
+              "responseBody": "\u003c!DOCTYPE html\u003e\n\u003chtml lang\u003d\"en\"\u003e\n\u003chead\u003e\n\u003cmeta charset\u003d\"utf-8\"\u003e\n\u003ctitle\u003eError\u003c/title\u003e\n\u003c/head\u003e\n\u003cbody\u003e\n\u003cpre\u003eCannot GET //api/gammq/3.6424274906296072/1.3471679957252073E8\u003c/pre\u003e\n\u003c/body\u003e\n\u003c/html\u003e\n",
+              "responseHeaders": {
+                "X-Powered-By": [
+                  "Express"
+                ],
+                "Content-Security-Policy": [
+                  "default-src \u0027none\u0027"
+                ],
+                "X-Content-Type-Options": [
+                  "nosniff"
+                ],
+                "Content-Type": [
+                  "text/html; charset\u003dutf-8"
+                ],
+                "Content-Length": [
+                  "189"
+                ],
+                "Date": [
+                  "Fri, 03 Sep 2021 22:35:09 GMT"
+                ],
+                "Connection": [
+                  "keep-alive"
+                ],
+                "Keep-Alive": [
+                  "timeout\u003d5"
+                ],
+                "OkHttp-Sent-Millis": [
+                  "1630708509660"
+                ],
+                "OkHttp-Received-Millis": [
+                  "1630708509660"
+                ]
+              },
+              "statusCode": 404,
+              "validationErrors": []
+            },
+            "httpMethod": "GET",
+            "operationId": "gammqUsingGET",
+            "parameters": [
+              {
+                "className": "java.lang.Double",
+                "parameterName": "a",
+                "sanitizedName": "a",
+                "value": 3.6424274906296072
+              },
+              {
+                "className": "java.lang.Double",
+                "parameterName": "x",
+                "sanitizedName": "x",
+                "value": 1.3471679957252073E8
+              }
+            ],
+            "statusCode": 404
+          }
+        ],
+        "authentication": {
+          "authenticated": false
+        }
+      },
+      {
+        "testSteps": [
+          {
+            "executionResult": {
+              "requestHeaders": {
+                "Accept": [
+                  "application/json"
+                ],
+                "Content-Type": [
+                  "application/json"
+                ],
+                "User-Agent": [
+                  "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0"
+                ]
+              },
+              "requestUrl": "http://localhost:20052//api/gammq/35.3956481316755/3.21252248007849",
+              "responseBody": "\u003c!DOCTYPE html\u003e\n\u003chtml lang\u003d\"en\"\u003e\n\u003chead\u003e\n\u003cmeta charset\u003d\"utf-8\"\u003e\n\u003ctitle\u003eError\u003c/title\u003e\n\u003c/head\u003e\n\u003cbody\u003e\n\u003cpre\u003eCannot GET //api/gammq/35.3956481316755/3.21252248007849\u003c/pre\u003e\n\u003c/body\u003e\n\u003c/html\u003e\n",
+              "responseHeaders": {
+                "X-Powered-By": [
+                  "Express"
+                ],
+                "Content-Security-Policy": [
+                  "default-src \u0027none\u0027"
+                ],
+                "X-Content-Type-Options": [
+                  "nosniff"
+                ],
+                "Content-Type": [
+                  "text/html; charset\u003dutf-8"
+                ],
+                "Content-Length": [
+                  "183"
+                ],
+                "Date": [
+                  "Fri, 03 Sep 2021 22:35:09 GMT"
+                ],
+                "Connection": [
+                  "keep-alive"
+                ],
+                "Keep-Alive": [
+                  "timeout\u003d5"
+                ],
+                "OkHttp-Sent-Millis": [
+                  "1630708509660"
+                ],
+                "OkHttp-Received-Millis": [
+                  "1630708509660"
+                ]
+              },
+              "statusCode": 404,
+              "validationErrors": []
+            },
+            "httpMethod": "GET",
+            "operationId": "gammqUsingGET",
+            "parameters": [
+              {
+                "className": "java.lang.Double",
+                "parameterName": "a",
+                "sanitizedName": "a",
+                "value": 35.3956481316755
+              },
+              {
+                "className": "java.lang.Double",
+                "parameterName": "x",
+                "sanitizedName": "x",
+                "value": 3.21252248007849
+              }
+            ],
+            "statusCode": 404
+          }
+        ],
+        "authentication": {
+          "authenticated": false
+        }
+      }
+    ],
+    "200": []
+  },
+  "target": {
+    "httpMethod": "GET",
+    "invocationClassName": "NcsRestApi",
+    "invocationMethodName": "gammqUsingGETWithHttpInfo",
+    "operationId": "gammqUsingGET",
+    "operationPath": "/api/gammq/{a}/{x}"
+  }
+}

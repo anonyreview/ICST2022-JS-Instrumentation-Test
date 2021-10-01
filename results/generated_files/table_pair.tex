@@ -1,0 +1,27 @@
+\begin{tabular}{ l l r r r |r r r |r r r}\\ 
+\toprule 
+SUT & JS-MIO& \multicolumn{3}{r|}{\%Lines} &  \multicolumn{3}{r|}{\%Branches} &  \multicolumn{3}{r}{\#Faults} \\ 
+& vs. &$\hat{A}_{12}$ & \emph{p}-value & relative &$\hat{A}_{12}$ & \emph{p}-value & relative &$\hat{A}_{12}$ & \emph{p}-value & relative \\ 
+\midrule 
+\emph{cyclotron-js} & BB$_f$ & \textbf{0.95} & \textbf{$\le $0.001} & \textbf{1.94\%} & \textbf{0.91} & \textbf{$\le $0.001} & \textbf{4.73\%} & \textbf{0.76} & \textbf{$\le $0.001} & \textbf{1.39\%} \\ 
+ & BB$_t$ & \textbf{0.83} & \textbf{$\le $0.001} & \textbf{1.45\%} & \textbf{0.82} & \textbf{$\le $0.001} & \textbf{3.25\%} & \textbf{0.74} & \textbf{$\le $0.001} & \textbf{1.33\%} \\ 
+ & RESTler & - & - & -& - & - & -& - & - & - \\ 
+  & RESTTESTGEN & - & - & -& - & - & -& - & - & - \\ 
+ \emph{disease-sh-api-js} & BB$_f$ & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{1.60\%} & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{10.33\%} & 0.50 & NaN & 0.00\% \\ 
+ & BB$_t$ & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{1.25\%} & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{8.81\%} & 0.50 & NaN & 0.00\% \\ 
+ & RESTler & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{2.97\%} & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{66.14\%} & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{Inf} \\ 
+ & RESTTESTGEN & - & - & -& - & - & -& - & - & - \\ 
+ \emph{ncs-js} & BB$_f$ & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{50.07\%} & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{54.08\%} & 0.50 & NaN & 0.00\% \\ 
+ & BB$_t$ & \textbf{0.99} & \textbf{$\le $0.001} & \textbf{32.99\%} & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{38.46\%} & 0.50 & NaN & 0.00\% \\ 
+ & RESTler & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{104.03\%} & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{482.67\%} & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{Inf} \\ 
+ & RESTTESTGEN & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{521.80\%} & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{1842.22\%} & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{Inf} \\ 
+\emph{realworld-app-js} & BB$_f$ & 0.39 & 0.050 & -0.15\% & \textbf{0.96} & \textbf{$\le $0.001} & \textbf{3.70\%} & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{42.75\%} \\ 
+ & BB$_t$ & \textcolor{red}{0.27} & \textcolor{red}{$\le $0.001} & \textcolor{red}{-0.30\%} & \textbf{0.93} & \textbf{$\le $0.001} & \textbf{3.31\%} & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{42.75\%} \\ 
+ & RESTler & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{6.53\%} & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{26.46\%} & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{994.44\%} \\ 
+ & RESTTESTGEN & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{30.81\%} & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{179.92\%} & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{Inf} \\ 
+\emph{scs-js} & BB$_f$ & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{18.08\%} & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{116.28\%} & 0.50 & NaN & 0.00\% \\ 
+ & BB$_t$ & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{16.88\%} & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{92.33\%} & 0.50 & NaN & 0.00\% \\ 
+ & RESTler & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{24.14\%} & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{370.91\%} & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{550.00\%} \\ 
+ & RESTTESTGEN & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{135.80\%} & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{841.82\%} & \textbf{1.00} & \textbf{$\le $0.001} & \textbf{Inf} \\ 
+\bottomrule 
+\end{tabular} 

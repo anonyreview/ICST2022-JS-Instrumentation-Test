@@ -1,0 +1,421 @@
+{
+  "responseCoverage": {
+    "401": [],
+    "403": [],
+    "404": [
+      {
+        "testSteps": [
+          {
+            "executionResult": {
+              "requestHeaders": {
+                "Accept": [
+                  "application/json"
+                ],
+                "Content-Type": [
+                  "application/json"
+                ],
+                "User-Agent": [
+                  "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0"
+                ]
+              },
+              "requestUrl": "http://localhost:20052//api/fisher/711891994/3/15.038720157280551",
+              "responseBody": "\u003c!DOCTYPE html\u003e\n\u003chtml lang\u003d\"en\"\u003e\n\u003chead\u003e\n\u003cmeta charset\u003d\"utf-8\"\u003e\n\u003ctitle\u003eError\u003c/title\u003e\n\u003c/head\u003e\n\u003cbody\u003e\n\u003cpre\u003eCannot GET //api/fisher/711891994/3/15.038720157280551\u003c/pre\u003e\n\u003c/body\u003e\n\u003c/html\u003e\n",
+              "responseHeaders": {
+                "X-Powered-By": [
+                  "Express"
+                ],
+                "Content-Security-Policy": [
+                  "default-src \u0027none\u0027"
+                ],
+                "X-Content-Type-Options": [
+                  "nosniff"
+                ],
+                "Content-Type": [
+                  "text/html; charset\u003dutf-8"
+                ],
+                "Content-Length": [
+                  "181"
+                ],
+                "Date": [
+                  "Fri, 03 Sep 2021 22:35:09 GMT"
+                ],
+                "Connection": [
+                  "keep-alive"
+                ],
+                "Keep-Alive": [
+                  "timeout\u003d5"
+                ],
+                "OkHttp-Sent-Millis": [
+                  "1630708509692"
+                ],
+                "OkHttp-Received-Millis": [
+                  "1630708509692"
+                ]
+              },
+              "statusCode": 404,
+              "validationErrors": []
+            },
+            "httpMethod": "GET",
+            "operationId": "fisherUsingGET",
+            "parameters": [
+              {
+                "className": "java.lang.Integer",
+                "parameterName": "m",
+                "sanitizedName": "m",
+                "value": 711891994
+              },
+              {
+                "className": "java.lang.Integer",
+                "parameterName": "n",
+                "sanitizedName": "n",
+                "value": 3
+              },
+              {
+                "className": "java.lang.Double",
+                "parameterName": "x",
+                "sanitizedName": "x",
+                "value": 15.038720157280551
+              }
+            ],
+            "statusCode": 404
+          }
+        ],
+        "authentication": {
+          "authenticated": false
+        }
+      },
+      {
+        "testSteps": [
+          {
+            "executionResult": {
+              "requestHeaders": {
+                "Accept": [
+                  "application/json"
+                ],
+                "Content-Type": [
+                  "application/json"
+                ],
+                "User-Agent": [
+                  "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0"
+                ]
+              },
+              "requestUrl": "http://localhost:20052//api/fisher/8/-1576712060/-1.384210347591177E9",
+              "responseBody": "\u003c!DOCTYPE html\u003e\n\u003chtml lang\u003d\"en\"\u003e\n\u003chead\u003e\n\u003cmeta charset\u003d\"utf-8\"\u003e\n\u003ctitle\u003eError\u003c/title\u003e\n\u003c/head\u003e\n\u003cbody\u003e\n\u003cpre\u003eCannot GET //api/fisher/8/-1576712060/-1.384210347591177E9\u003c/pre\u003e\n\u003c/body\u003e\n\u003c/html\u003e\n",
+              "responseHeaders": {
+                "X-Powered-By": [
+                  "Express"
+                ],
+                "Content-Security-Policy": [
+                  "default-src \u0027none\u0027"
+                ],
+                "X-Content-Type-Options": [
+                  "nosniff"
+                ],
+                "Content-Type": [
+                  "text/html; charset\u003dutf-8"
+                ],
+                "Content-Length": [
+                  "185"
+                ],
+                "Date": [
+                  "Fri, 03 Sep 2021 22:35:09 GMT"
+                ],
+                "Connection": [
+                  "keep-alive"
+                ],
+                "Keep-Alive": [
+                  "timeout\u003d5"
+                ],
+                "OkHttp-Sent-Millis": [
+                  "1630708509692"
+                ],
+                "OkHttp-Received-Millis": [
+                  "1630708509692"
+                ]
+              },
+              "statusCode": 404,
+              "validationErrors": []
+            },
+            "httpMethod": "GET",
+            "operationId": "fisherUsingGET",
+            "parameters": [
+              {
+                "className": "java.lang.Integer",
+                "parameterName": "m",
+                "sanitizedName": "m",
+                "value": 8
+              },
+              {
+                "className": "java.lang.Integer",
+                "parameterName": "n",
+                "sanitizedName": "n",
+                "value": -1576712060
+              },
+              {
+                "className": "java.lang.Double",
+                "parameterName": "x",
+                "sanitizedName": "x",
+                "value": -1.384210347591177E9
+              }
+            ],
+            "statusCode": 404
+          }
+        ],
+        "authentication": {
+          "authenticated": false
+        }
+      },
+      {
+        "testSteps": [
+          {
+            "executionResult": {
+              "requestHeaders": {
+                "Accept": [
+                  "application/json"
+                ],
+                "Content-Type": [
+                  "application/json"
+                ],
+                "User-Agent": [
+                  "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0"
+                ]
+              },
+              "requestUrl": "http://localhost:20052//api/fisher/3/-41814564/56.629951194400924",
+              "responseBody": "\u003c!DOCTYPE html\u003e\n\u003chtml lang\u003d\"en\"\u003e\n\u003chead\u003e\n\u003cmeta charset\u003d\"utf-8\"\u003e\n\u003ctitle\u003eError\u003c/title\u003e\n\u003c/head\u003e\n\u003cbody\u003e\n\u003cpre\u003eCannot GET //api/fisher/3/-41814564/56.629951194400924\u003c/pre\u003e\n\u003c/body\u003e\n\u003c/html\u003e\n",
+              "responseHeaders": {
+                "X-Powered-By": [
+                  "Express"
+                ],
+                "Content-Security-Policy": [
+                  "default-src \u0027none\u0027"
+                ],
+                "X-Content-Type-Options": [
+                  "nosniff"
+                ],
+                "Content-Type": [
+                  "text/html; charset\u003dutf-8"
+                ],
+                "Content-Length": [
+                  "181"
+                ],
+                "Date": [
+                  "Fri, 03 Sep 2021 22:35:09 GMT"
+                ],
+                "Connection": [
+                  "keep-alive"
+                ],
+                "Keep-Alive": [
+                  "timeout\u003d5"
+                ],
+                "OkHttp-Sent-Millis": [
+                  "1630708509692"
+                ],
+                "OkHttp-Received-Millis": [
+                  "1630708509692"
+                ]
+              },
+              "statusCode": 404,
+              "validationErrors": []
+            },
+            "httpMethod": "GET",
+            "operationId": "fisherUsingGET",
+            "parameters": [
+              {
+                "className": "java.lang.Integer",
+                "parameterName": "m",
+                "sanitizedName": "m",
+                "value": 3
+              },
+              {
+                "className": "java.lang.Integer",
+                "parameterName": "n",
+                "sanitizedName": "n",
+                "value": -41814564
+              },
+              {
+                "className": "java.lang.Double",
+                "parameterName": "x",
+                "sanitizedName": "x",
+                "value": 56.629951194400924
+              }
+            ],
+            "statusCode": 404
+          }
+        ],
+        "authentication": {
+          "authenticated": false
+        }
+      },
+      {
+        "testSteps": [
+          {
+            "executionResult": {
+              "requestHeaders": {
+                "Accept": [
+                  "application/json"
+                ],
+                "Content-Type": [
+                  "application/json"
+                ],
+                "User-Agent": [
+                  "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0"
+                ]
+              },
+              "requestUrl": "http://localhost:20052//api/fisher/-1672510295/28/1.2467442254726362E8",
+              "responseBody": "\u003c!DOCTYPE html\u003e\n\u003chtml lang\u003d\"en\"\u003e\n\u003chead\u003e\n\u003cmeta charset\u003d\"utf-8\"\u003e\n\u003ctitle\u003eError\u003c/title\u003e\n\u003c/head\u003e\n\u003cbody\u003e\n\u003cpre\u003eCannot GET //api/fisher/-1672510295/28/1.2467442254726362E8\u003c/pre\u003e\n\u003c/body\u003e\n\u003c/html\u003e\n",
+              "responseHeaders": {
+                "X-Powered-By": [
+                  "Express"
+                ],
+                "Content-Security-Policy": [
+                  "default-src \u0027none\u0027"
+                ],
+                "X-Content-Type-Options": [
+                  "nosniff"
+                ],
+                "Content-Type": [
+                  "text/html; charset\u003dutf-8"
+                ],
+                "Content-Length": [
+                  "186"
+                ],
+                "Date": [
+                  "Fri, 03 Sep 2021 22:35:09 GMT"
+                ],
+                "Connection": [
+                  "keep-alive"
+                ],
+                "Keep-Alive": [
+                  "timeout\u003d5"
+                ],
+                "OkHttp-Sent-Millis": [
+                  "1630708509692"
+                ],
+                "OkHttp-Received-Millis": [
+                  "1630708509692"
+                ]
+              },
+              "statusCode": 404,
+              "validationErrors": []
+            },
+            "httpMethod": "GET",
+            "operationId": "fisherUsingGET",
+            "parameters": [
+              {
+                "className": "java.lang.Integer",
+                "parameterName": "m",
+                "sanitizedName": "m",
+                "value": -1672510295
+              },
+              {
+                "className": "java.lang.Integer",
+                "parameterName": "n",
+                "sanitizedName": "n",
+                "value": 28
+              },
+              {
+                "className": "java.lang.Double",
+                "parameterName": "x",
+                "sanitizedName": "x",
+                "value": 1.2467442254726362E8
+              }
+            ],
+            "statusCode": 404
+          }
+        ],
+        "authentication": {
+          "authenticated": false
+        }
+      },
+      {
+        "testSteps": [
+          {
+            "executionResult": {
+              "requestHeaders": {
+                "Accept": [
+                  "application/json"
+                ],
+                "Content-Type": [
+                  "application/json"
+                ],
+                "User-Agent": [
+                  "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0"
+                ]
+              },
+              "requestUrl": "http://localhost:20052//api/fisher/17/6/-1.634920592427112E9",
+              "responseBody": "\u003c!DOCTYPE html\u003e\n\u003chtml lang\u003d\"en\"\u003e\n\u003chead\u003e\n\u003cmeta charset\u003d\"utf-8\"\u003e\n\u003ctitle\u003eError\u003c/title\u003e\n\u003c/head\u003e\n\u003cbody\u003e\n\u003cpre\u003eCannot GET //api/fisher/17/6/-1.634920592427112E9\u003c/pre\u003e\n\u003c/body\u003e\n\u003c/html\u003e\n",
+              "responseHeaders": {
+                "X-Powered-By": [
+                  "Express"
+                ],
+                "Content-Security-Policy": [
+                  "default-src \u0027none\u0027"
+                ],
+                "X-Content-Type-Options": [
+                  "nosniff"
+                ],
+                "Content-Type": [
+                  "text/html; charset\u003dutf-8"
+                ],
+                "Content-Length": [
+                  "176"
+                ],
+                "Date": [
+                  "Fri, 03 Sep 2021 22:35:09 GMT"
+                ],
+                "Connection": [
+                  "keep-alive"
+                ],
+                "Keep-Alive": [
+                  "timeout\u003d5"
+                ],
+                "OkHttp-Sent-Millis": [
+                  "1630708509692"
+                ],
+                "OkHttp-Received-Millis": [
+                  "1630708509692"
+                ]
+              },
+              "statusCode": 404,
+              "validationErrors": []
+            },
+            "httpMethod": "GET",
+            "operationId": "fisherUsingGET",
+            "parameters": [
+              {
+                "className": "java.lang.Integer",
+                "parameterName": "m",
+                "sanitizedName": "m",
+                "value": 17
+              },
+              {
+                "className": "java.lang.Integer",
+                "parameterName": "n",
+                "sanitizedName": "n",
+                "value": 6
+              },
+              {
+                "className": "java.lang.Double",
+                "parameterName": "x",
+                "sanitizedName": "x",
+                "value": -1.634920592427112E9
+              }
+            ],
+            "statusCode": 404
+          }
+        ],
+        "authentication": {
+          "authenticated": false
+        }
+      }
+    ],
+    "200": []
+  },
+  "target": {
+    "httpMethod": "GET",
+    "invocationClassName": "NcsRestApi",
+    "invocationMethodName": "fisherUsingGETWithHttpInfo",
+    "operationId": "fisherUsingGET",
+    "operationPath": "/api/fisher/{m}/{n}/{x}"
+  }
+}

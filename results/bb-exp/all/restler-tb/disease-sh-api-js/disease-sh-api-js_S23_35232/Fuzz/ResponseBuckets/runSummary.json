@@ -1,0 +1,17 @@
+{
+  "failedRequestsCount": 3337,
+  "bugCount": 0,
+  "codeCounts": {
+    "404": 3337
+  },
+  "errorBuckets": {
+    "(404, 3c3eccf5-2153-4aac-aa1d-6ccea0939fa7)": 1,
+    "(404, 50dac953-c4ee-428b-af18-d8cb7cd5d214)": 1,
+    "(404, 7b4b2da8-0ff4-4d0c-905a-af439ea9af65)": 5,
+    "(404, 8fc0c1d1-8d62-4139-99bc-1b6f3070bf1f)": 3266,
+    "(404, 97cd884d-dd26-4826-be3b-29e42ca0d4c8)": 1,
+    "(404, cf0831e8-6391-454f-819c-898a43adbae6)": 20,
+    "(404, ecb92d6c-c8a1-4598-afc7-2b828749c723)": 42,
+    "(404, ef635a16-8fe8-470d-a363-03833c1c3159)": 1
+  }
+}

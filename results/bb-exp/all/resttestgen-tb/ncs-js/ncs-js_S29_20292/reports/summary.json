@@ -1,0 +1,175 @@
+{
+  "numberOfDocumentedOperations": 6,
+  "numberOfProcessedOperations": 6,
+  "numberOfOperationsWithValidationErrors": 0,
+  "numberOfOperationsWithTestedErrorStatusCode": 0,
+  "numberOfOperationsWithTestedSuccessfulStatusCode": 0,
+  "numberOfOperationsWithTestedFailureStatusCode": 6,
+  "numberOfOperationsWhichRequireAuthorization": 0,
+  "numberOfOperationsWithExceptions": 6,
+  "successfulOperationsRatio": 0.0,
+  "operationsResults": {
+    "bessjUsingGET": {
+      "exceptions": [
+        "com.bpr.resttestgen.helper.exceptions.ResponseValidationException:Cannot validate response for OperationInfo: bessjUsingGET with status code 404: no response schema defined"
+      ],
+      "operationId": "bessjUsingGET",
+      "responseCoverage": {
+        "operationId": "bessjUsingGET",
+        "operationPath": "/api/bessj/{n}/{x}",
+        "numberOfDocumentedStatusCodes": 4,
+        "numberOfTestedStatusCodes": 1,
+        "statusCodeCoverageRatio": 25.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 0,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "403",
+          "404"
+        ],
+        "listOfTestedStatusCodes": [
+          "404"
+        ],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 1,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "gammqUsingGET": {
+      "exceptions": [
+        "com.bpr.resttestgen.helper.exceptions.ResponseValidationException:Cannot validate response for OperationInfo: gammqUsingGET with status code 404: no response schema defined"
+      ],
+      "operationId": "gammqUsingGET",
+      "responseCoverage": {
+        "operationId": "gammqUsingGET",
+        "operationPath": "/api/gammq/{a}/{x}",
+        "numberOfDocumentedStatusCodes": 4,
+        "numberOfTestedStatusCodes": 1,
+        "statusCodeCoverageRatio": 25.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 0,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "403",
+          "404"
+        ],
+        "listOfTestedStatusCodes": [
+          "404"
+        ],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 1,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "checkTriangleUsingGET": {
+      "exceptions": [
+        "com.bpr.resttestgen.helper.exceptions.ResponseValidationException:Cannot validate response for OperationInfo: checkTriangleUsingGET with status code 404: no response schema defined"
+      ],
+      "operationId": "checkTriangleUsingGET",
+      "responseCoverage": {
+        "operationId": "checkTriangleUsingGET",
+        "operationPath": "/api/triangle/{a}/{b}/{c}",
+        "numberOfDocumentedStatusCodes": 4,
+        "numberOfTestedStatusCodes": 1,
+        "statusCodeCoverageRatio": 25.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 0,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "403",
+          "404"
+        ],
+        "listOfTestedStatusCodes": [
+          "404"
+        ],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 1,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "fisherUsingGET": {
+      "exceptions": [
+        "com.bpr.resttestgen.helper.exceptions.ResponseValidationException:Cannot validate response for OperationInfo: fisherUsingGET with status code 404: no response schema defined"
+      ],
+      "operationId": "fisherUsingGET",
+      "responseCoverage": {
+        "operationId": "fisherUsingGET",
+        "operationPath": "/api/fisher/{m}/{n}/{x}",
+        "numberOfDocumentedStatusCodes": 4,
+        "numberOfTestedStatusCodes": 1,
+        "statusCodeCoverageRatio": 25.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 0,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "403",
+          "404"
+        ],
+        "listOfTestedStatusCodes": [
+          "404"
+        ],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 1,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "expintUsingGET": {
+      "exceptions": [
+        "com.bpr.resttestgen.helper.exceptions.ResponseValidationException:Cannot validate response for OperationInfo: expintUsingGET with status code 404: no response schema defined"
+      ],
+      "operationId": "expintUsingGET",
+      "responseCoverage": {
+        "operationId": "expintUsingGET",
+        "operationPath": "/api/expint/{n}/{x}",
+        "numberOfDocumentedStatusCodes": 4,
+        "numberOfTestedStatusCodes": 1,
+        "statusCodeCoverageRatio": 25.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 0,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "403",
+          "404"
+        ],
+        "listOfTestedStatusCodes": [
+          "404"
+        ],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 1,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "remainderUsingGET": {
+      "exceptions": [
+        "com.bpr.resttestgen.helper.exceptions.ResponseValidationException:Cannot validate response for OperationInfo: remainderUsingGET with status code 404: no response schema defined"
+      ],
+      "operationId": "remainderUsingGET",
+      "responseCoverage": {
+        "operationId": "remainderUsingGET",
+        "operationPath": "/api/remainder/{a}/{b}",
+        "numberOfDocumentedStatusCodes": 4,
+        "numberOfTestedStatusCodes": 1,
+        "statusCodeCoverageRatio": 25.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 0,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "403",
+          "404"
+        ],
+        "listOfTestedStatusCodes": [
+          "404"
+        ],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 1,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    }
+  }
+}

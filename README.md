@@ -2,12 +2,14 @@
 
 In this package, we provide necessary information for replicating the experiment in the paper that includes 
 
+
 - [EvoMaster](EvoMaster): tools described in the paper with our js instrumentation and test writer.
 - [jar](jar): runnable jar for EvoMaster.
 - [EMB-js](EMB-js): five NodeJS case studies employed for the experiment.
 - [build.py](build.py): a python script to build tools and all five case studies.
-- [run.sh](run.sh) and [runBB.sh](runBB.sh): examples to run our tool against __ncs-js__ case study.
-
+- [run.sh](run.sh) and [runBB.sh](runBB.sh): examples to run our tool on __ncs-js__ case study.
+- [Results](results): raw results.
+- [r-script](r-script): a R script to analyze results and generate table and figures reported in the paper.
 
 ### Implementation clarification
 
@@ -17,7 +19,6 @@ To enable SBST for NodeJs application, we implemented
 - JavaScript test writer for producing jest tests.
 
 ## Quick build and run
-
 
 **Step 1.** In this repo, we provide a python script to build tools and all five case studies.
 
@@ -39,7 +40,7 @@ After the execution is done, you will see a folder named `example` which contain
 - `snapshot_ncs_js.csv`: snapshot of statistics collected (at e.g., every 5% budget used) during the search for two settings
 
 **Step 3.** In addition, we also provide an example for presenting coverage collection with `c8` for a whole process.
-The example is with BB_ft setting against __ncs-js__ case study.
+The example is with BB_ft setting on __ncs-js__ case study.
 **NOTE** Before running the example, please install `c8`, see https://github.com/bcoe/c8. Then start the example with
 > `./runBB.sh`
 
@@ -52,6 +53,29 @@ In `example` folder
 
 In `EMB-js/rest/ncs`, there would be a new folder named `coverage` which contains 
 - `coverage-summary.json`: a coverage report with json format.
+
+## Results and Analysis
+
+Raw data in our experiment are provided in `results` folder
+- `compressedData.zip` and `snapshotCompressedData.zip` are compressed statistics and snapshot files for white-box experiment; 
+- `wb-exp` contains coverage reports based on generated tests;
+- `bb-exp` contains coverage reports which are collected during a whole process as the `runBB.sh` example.
+
+We also provide a R script [js-exp.R](r-script/js-exp.R) to analyze the result and produce tables and figures used in the paper.
+After run `js-exp.R`, in `results/generatedfiles`,
+- `table_wbtargets_all.tex` is Table II for RQ1;
+- for RQ1, we also provide plot-lines based on the number of covered targets over the course of the search for each of cases studies, i.e.,
+  `plot_wbtargets_cyclotron-js.pdf` (cyclotron-js),`plot_wbtargets_disease-sh-api-js.pdf`(disease-sh-api),
+  `plot_wbtargets_ncs-js.pdf` (ncs-js),
+  `plot_wbtargets_nestjs-realworld-example-app-js.pdf` (realworld-app-js), and
+  `plot_wbtargets_scs-js.pdf`(scs-js);
+- `table_avg_coverage.tex` is Table III for RQ2 and RQ3;
+- `table_avg_faults.tex` is Table IV for RQ2 and RQ3;
+- `table_pair.tex` is Table V for RQ3.
+
+
+
+
 
 ## Build and run step by step
 

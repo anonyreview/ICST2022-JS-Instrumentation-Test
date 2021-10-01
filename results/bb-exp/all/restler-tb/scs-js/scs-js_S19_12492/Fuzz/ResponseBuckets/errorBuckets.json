@@ -1,0 +1,196 @@
+{
+  "500": {
+    "381b2d90-c015-493f-a5c6-609b0f02f0f9": [
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/pat/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 500,
+            "codeDescription": "Internal Server Error",
+            "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>ReferenceError: rep is not defined<br> &nbsp; &nbsp;at D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\src\\app.js:106:17<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\layer.js:95:5)<br> &nbsp; &nbsp;at next (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\\route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\\route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\layer.js:95:5)<br> &nbsp; &nbsp;at D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:281:22<br> &nbsp; &nbsp;at param (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:354:14)<br> &nbsp; &nbsp;at param (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:365:14)<br> &nbsp; &nbsp;at Function.process_params (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:410:3)<br> &nbsp; &nbsp;at next (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:275:10)</pre>\n</body>\n</html>\n",
+            "isFailure": true,
+            "isBug": true
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/pat/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 500,
+            "codeDescription": "Internal Server Error",
+            "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>ReferenceError: rep is not defined<br> &nbsp; &nbsp;at D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\src\\app.js:106:17<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\layer.js:95:5)<br> &nbsp; &nbsp;at next (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\\route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\\route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\layer.js:95:5)<br> &nbsp; &nbsp;at D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:281:22<br> &nbsp; &nbsp;at param (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:354:14)<br> &nbsp; &nbsp;at param (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:365:14)<br> &nbsp; &nbsp;at Function.process_params (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:410:3)<br> &nbsp; &nbsp;at next (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:275:10)</pre>\n</body>\n</html>\n",
+            "isFailure": true,
+            "isBug": true
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/pat/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 500,
+            "codeDescription": "Internal Server Error",
+            "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>ReferenceError: rep is not defined<br> &nbsp; &nbsp;at D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\src\\app.js:106:17<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\layer.js:95:5)<br> &nbsp; &nbsp;at next (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\\route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\\route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\layer.js:95:5)<br> &nbsp; &nbsp;at D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:281:22<br> &nbsp; &nbsp;at param (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:354:14)<br> &nbsp; &nbsp;at param (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:365:14)<br> &nbsp; &nbsp;at Function.process_params (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:410:3)<br> &nbsp; &nbsp;at next (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:275:10)</pre>\n</body>\n</html>\n",
+            "isFailure": true,
+            "isBug": true
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/pat/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 500,
+            "codeDescription": "Internal Server Error",
+            "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>ReferenceError: rep is not defined<br> &nbsp; &nbsp;at D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\src\\app.js:106:17<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\layer.js:95:5)<br> &nbsp; &nbsp;at next (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\\route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\\route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\layer.js:95:5)<br> &nbsp; &nbsp;at D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:281:22<br> &nbsp; &nbsp;at param (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:354:14)<br> &nbsp; &nbsp;at param (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:365:14)<br> &nbsp; &nbsp;at Function.process_params (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:410:3)<br> &nbsp; &nbsp;at next (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:275:10)</pre>\n</body>\n</html>\n",
+            "isFailure": true,
+            "isBug": true
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/pat/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 500,
+            "codeDescription": "Internal Server Error",
+            "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>ReferenceError: rep is not defined<br> &nbsp; &nbsp;at D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\src\\app.js:106:17<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\layer.js:95:5)<br> &nbsp; &nbsp;at next (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\\route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\\route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\layer.js:95:5)<br> &nbsp; &nbsp;at D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:281:22<br> &nbsp; &nbsp;at param (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:354:14)<br> &nbsp; &nbsp;at param (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:365:14)<br> &nbsp; &nbsp;at Function.process_params (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:410:3)<br> &nbsp; &nbsp;at next (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:275:10)</pre>\n</body>\n</html>\n",
+            "isFailure": true,
+            "isBug": true
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/pat/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 500,
+            "codeDescription": "Internal Server Error",
+            "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>ReferenceError: rep is not defined<br> &nbsp; &nbsp;at D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\src\\app.js:106:17<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\layer.js:95:5)<br> &nbsp; &nbsp;at next (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\\route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\\route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\layer.js:95:5)<br> &nbsp; &nbsp;at D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:281:22<br> &nbsp; &nbsp;at param (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:354:14)<br> &nbsp; &nbsp;at param (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:365:14)<br> &nbsp; &nbsp;at Function.process_params (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:410:3)<br> &nbsp; &nbsp;at next (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:275:10)</pre>\n</body>\n</html>\n",
+            "isFailure": true,
+            "isBug": true
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/pat/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 500,
+            "codeDescription": "Internal Server Error",
+            "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>ReferenceError: rep is not defined<br> &nbsp; &nbsp;at D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\src\\app.js:106:17<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\layer.js:95:5)<br> &nbsp; &nbsp;at next (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\\route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\\route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\layer.js:95:5)<br> &nbsp; &nbsp;at D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:281:22<br> &nbsp; &nbsp;at param (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:354:14)<br> &nbsp; &nbsp;at param (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:365:14)<br> &nbsp; &nbsp;at Function.process_params (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:410:3)<br> &nbsp; &nbsp;at next (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:275:10)</pre>\n</body>\n</html>\n",
+            "isFailure": true,
+            "isBug": true
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/pat/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 500,
+            "codeDescription": "Internal Server Error",
+            "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>ReferenceError: rep is not defined<br> &nbsp; &nbsp;at D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\src\\app.js:106:17<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\layer.js:95:5)<br> &nbsp; &nbsp;at next (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\\route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\\route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\layer.js:95:5)<br> &nbsp; &nbsp;at D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:281:22<br> &nbsp; &nbsp;at param (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:354:14)<br> &nbsp; &nbsp;at param (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:365:14)<br> &nbsp; &nbsp;at Function.process_params (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:410:3)<br> &nbsp; &nbsp;at next (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:275:10)</pre>\n</body>\n</html>\n",
+            "isFailure": true,
+            "isBug": true
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/pat/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 500,
+            "codeDescription": "Internal Server Error",
+            "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>ReferenceError: rep is not defined<br> &nbsp; &nbsp;at D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\src\\app.js:106:17<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\layer.js:95:5)<br> &nbsp; &nbsp;at next (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\\route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\\route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\layer.js:95:5)<br> &nbsp; &nbsp;at D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:281:22<br> &nbsp; &nbsp;at param (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:354:14)<br> &nbsp; &nbsp;at param (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:365:14)<br> &nbsp; &nbsp;at Function.process_params (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:410:3)<br> &nbsp; &nbsp;at next (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:275:10)</pre>\n</body>\n</html>\n",
+            "isFailure": true,
+            "isBug": true
+          }
+        }
+      },
+      {
+        "request": {
+          "RequestData": {
+            "method": "GET",
+            "path": "/api/pat/fuzzstring",
+            "query": "",
+            "body": ""
+          }
+        },
+        "response": {
+          "ResponseData": {
+            "code": 500,
+            "codeDescription": "Internal Server Error",
+            "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>ReferenceError: rep is not defined<br> &nbsp; &nbsp;at D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\src\\app.js:106:17<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\layer.js:95:5)<br> &nbsp; &nbsp;at next (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\\route.js:137:13)<br> &nbsp; &nbsp;at Route.dispatch (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\\route.js:112:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\layer.js:95:5)<br> &nbsp; &nbsp;at D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:281:22<br> &nbsp; &nbsp;at param (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:354:14)<br> &nbsp; &nbsp;at param (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:365:14)<br> &nbsp; &nbsp;at Function.process_params (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:410:3)<br> &nbsp; &nbsp;at next (D:\\manzh_workspace\\js-exp\\\result-exp\\\n-js-restler-nscs-R30\\scs-js\\\node_modules\\express\\lib\\\router\\index.js:275:10)</pre>\n</body>\n</html>\n",
+            "isFailure": true,
+            "isBug": true
+          }
+        }
+      }
+    ]
+  }
+}

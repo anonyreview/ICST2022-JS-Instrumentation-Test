@@ -1,0 +1,310 @@
+{
+  "numberOfDocumentedOperations": 11,
+  "numberOfProcessedOperations": 11,
+  "numberOfOperationsWithValidationErrors": 0,
+  "numberOfOperationsWithTestedErrorStatusCode": 0,
+  "numberOfOperationsWithTestedSuccessfulStatusCode": 0,
+  "numberOfOperationsWithTestedFailureStatusCode": 11,
+  "numberOfOperationsWhichRequireAuthorization": 0,
+  "numberOfOperationsWithExceptions": 11,
+  "successfulOperationsRatio": 0.0,
+  "operationsResults": {
+    "text2txtUsingGET": {
+      "exceptions": [
+        "com.bpr.resttestgen.helper.exceptions.ResponseValidationException:Cannot validate response for OperationInfo: text2txtUsingGET with status code 404: no response schema defined"
+      ],
+      "operationId": "text2txtUsingGET",
+      "responseCoverage": {
+        "operationId": "text2txtUsingGET",
+        "operationPath": "/api/text2txt/{word1}/{word2}/{word3}",
+        "numberOfDocumentedStatusCodes": 4,
+        "numberOfTestedStatusCodes": 1,
+        "statusCodeCoverageRatio": 25.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 0,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "403",
+          "404"
+        ],
+        "listOfTestedStatusCodes": [
+          "404"
+        ],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 1,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "costfunsUsingGET": {
+      "exceptions": [
+        "com.bpr.resttestgen.helper.exceptions.ResponseValidationException:Cannot validate response for OperationInfo: costfunsUsingGET with status code 404: no response schema defined"
+      ],
+      "operationId": "costfunsUsingGET",
+      "responseCoverage": {
+        "operationId": "costfunsUsingGET",
+        "operationPath": "/api/costfuns/{i}/{s}",
+        "numberOfDocumentedStatusCodes": 4,
+        "numberOfTestedStatusCodes": 1,
+        "statusCodeCoverageRatio": 25.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 0,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "403",
+          "404"
+        ],
+        "listOfTestedStatusCodes": [
+          "404"
+        ],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 1,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "regexUsingGET": {
+      "exceptions": [
+        "com.bpr.resttestgen.helper.exceptions.ResponseValidationException:Cannot validate response for OperationInfo: regexUsingGET with status code 404: no response schema defined"
+      ],
+      "operationId": "regexUsingGET",
+      "responseCoverage": {
+        "operationId": "regexUsingGET",
+        "operationPath": "/api/pat/{txt}",
+        "numberOfDocumentedStatusCodes": 4,
+        "numberOfTestedStatusCodes": 1,
+        "statusCodeCoverageRatio": 25.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 0,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "403",
+          "404"
+        ],
+        "listOfTestedStatusCodes": [
+          "404"
+        ],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 1,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "notyPevarUsingGET": {
+      "exceptions": [
+        "com.bpr.resttestgen.helper.exceptions.ResponseValidationException:Cannot validate response for OperationInfo: notyPevarUsingGET with status code 404: no response schema defined"
+      ],
+      "operationId": "notyPevarUsingGET",
+      "responseCoverage": {
+        "operationId": "notyPevarUsingGET",
+        "operationPath": "/api/notypevar/{i}/{s}",
+        "numberOfDocumentedStatusCodes": 4,
+        "numberOfTestedStatusCodes": 1,
+        "statusCodeCoverageRatio": 25.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 0,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "403",
+          "404"
+        ],
+        "listOfTestedStatusCodes": [
+          "404"
+        ],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 1,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "ordered4UsingGET": {
+      "exceptions": [
+        "com.bpr.resttestgen.helper.exceptions.ResponseValidationException:Cannot validate response for OperationInfo: ordered4UsingGET with status code 404: no response schema defined"
+      ],
+      "operationId": "ordered4UsingGET",
+      "responseCoverage": {
+        "operationId": "ordered4UsingGET",
+        "operationPath": "/api/ordered4/{w}/{x}/{z}/{y}",
+        "numberOfDocumentedStatusCodes": 4,
+        "numberOfTestedStatusCodes": 1,
+        "statusCodeCoverageRatio": 25.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 0,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "403",
+          "404"
+        ],
+        "listOfTestedStatusCodes": [
+          "404"
+        ],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 1,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "dateParseUsingGET": {
+      "exceptions": [
+        "com.bpr.resttestgen.helper.exceptions.ResponseValidationException:Cannot validate response for OperationInfo: dateParseUsingGET with status code 404: no response schema defined"
+      ],
+      "operationId": "dateParseUsingGET",
+      "responseCoverage": {
+        "operationId": "dateParseUsingGET",
+        "operationPath": "/api/dateparse/{dayname}/{monthname}",
+        "numberOfDocumentedStatusCodes": 4,
+        "numberOfTestedStatusCodes": 1,
+        "statusCodeCoverageRatio": 25.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 0,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "403",
+          "404"
+        ],
+        "listOfTestedStatusCodes": [
+          "404"
+        ],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 1,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "fileSuffixUsingGET": {
+      "exceptions": [
+        "com.bpr.resttestgen.helper.exceptions.ResponseValidationException:Cannot validate response for OperationInfo: fileSuffixUsingGET with status code 404: no response schema defined"
+      ],
+      "operationId": "fileSuffixUsingGET",
+      "responseCoverage": {
+        "operationId": "fileSuffixUsingGET",
+        "operationPath": "/api/filesuffix/{directory}/{file}",
+        "numberOfDocumentedStatusCodes": 4,
+        "numberOfTestedStatusCodes": 1,
+        "statusCodeCoverageRatio": 25.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 0,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "403",
+          "404"
+        ],
+        "listOfTestedStatusCodes": [
+          "404"
+        ],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 1,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "titleUsingGET": {
+      "exceptions": [
+        "com.bpr.resttestgen.helper.exceptions.ResponseValidationException:Cannot validate response for OperationInfo: titleUsingGET with status code 404: no response schema defined"
+      ],
+      "operationId": "titleUsingGET",
+      "responseCoverage": {
+        "operationId": "titleUsingGET",
+        "operationPath": "/api/title/{sex}/{title}",
+        "numberOfDocumentedStatusCodes": 4,
+        "numberOfTestedStatusCodes": 1,
+        "statusCodeCoverageRatio": 25.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 0,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "403",
+          "404"
+        ],
+        "listOfTestedStatusCodes": [
+          "404"
+        ],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 1,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "patUsingGET": {
+      "exceptions": [
+        "com.bpr.resttestgen.helper.exceptions.ResponseValidationException:Cannot validate response for OperationInfo: patUsingGET with status code 404: no response schema defined"
+      ],
+      "operationId": "patUsingGET",
+      "responseCoverage": {
+        "operationId": "patUsingGET",
+        "operationPath": "/api/pat/{txt}/{pat}",
+        "numberOfDocumentedStatusCodes": 4,
+        "numberOfTestedStatusCodes": 1,
+        "statusCodeCoverageRatio": 25.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 0,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "403",
+          "404"
+        ],
+        "listOfTestedStatusCodes": [
+          "404"
+        ],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 1,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "cookieUsingGET": {
+      "exceptions": [
+        "com.bpr.resttestgen.helper.exceptions.ResponseValidationException:Cannot validate response for OperationInfo: cookieUsingGET with status code 404: no response schema defined"
+      ],
+      "operationId": "cookieUsingGET",
+      "responseCoverage": {
+        "operationId": "cookieUsingGET",
+        "operationPath": "/api/cookie/{name}/{val}/{site}",
+        "numberOfDocumentedStatusCodes": 4,
+        "numberOfTestedStatusCodes": 1,
+        "statusCodeCoverageRatio": 25.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 0,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "403",
+          "404"
+        ],
+        "listOfTestedStatusCodes": [
+          "404"
+        ],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 1,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    },
+    "calcUsingGET": {
+      "exceptions": [
+        "com.bpr.resttestgen.helper.exceptions.ResponseValidationException:Cannot validate response for OperationInfo: calcUsingGET with status code 404: no response schema defined"
+      ],
+      "operationId": "calcUsingGET",
+      "responseCoverage": {
+        "operationId": "calcUsingGET",
+        "operationPath": "/api/calc/{op}/{arg1}/{arg2}",
+        "numberOfDocumentedStatusCodes": 4,
+        "numberOfTestedStatusCodes": 1,
+        "statusCodeCoverageRatio": 25.0,
+        "validationErrors": 0,
+        "numberOfTimeouts": 0,
+        "listOfDocumentedStatusCodes": [
+          "200",
+          "401",
+          "403",
+          "404"
+        ],
+        "listOfTestedStatusCodes": [
+          "404"
+        ],
+        "numberOfTestedSuccessfulStatusCodes": 0,
+        "numberOfTestedFailureStatusCodes": 1,
+        "numberOfTestedErrorStatusCodes": 0
+      }
+    }
+  }
+}

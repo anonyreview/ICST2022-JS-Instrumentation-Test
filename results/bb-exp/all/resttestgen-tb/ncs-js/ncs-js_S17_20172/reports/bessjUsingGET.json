@@ -1,0 +1,391 @@
+{
+  "responseCoverage": {
+    "401": [],
+    "403": [],
+    "404": [
+      {
+        "testSteps": [
+          {
+            "executionResult": {
+              "requestHeaders": {
+                "Accept": [
+                  "application/json"
+                ],
+                "Content-Type": [
+                  "application/json"
+                ],
+                "User-Agent": [
+                  "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0"
+                ]
+              },
+              "requestUrl": "http://localhost:20172//api/bessj/-1952092273/1.2222874355964675",
+              "responseBody": "\u003c!DOCTYPE html\u003e\n\u003chtml lang\u003d\"en\"\u003e\n\u003chead\u003e\n\u003cmeta charset\u003d\"utf-8\"\u003e\n\u003ctitle\u003eError\u003c/title\u003e\n\u003c/head\u003e\n\u003cbody\u003e\n\u003cpre\u003eCannot GET //api/bessj/-1952092273/1.2222874355964675\u003c/pre\u003e\n\u003c/body\u003e\n\u003c/html\u003e\n",
+              "responseHeaders": {
+                "X-Powered-By": [
+                  "Express"
+                ],
+                "Content-Security-Policy": [
+                  "default-src \u0027none\u0027"
+                ],
+                "X-Content-Type-Options": [
+                  "nosniff"
+                ],
+                "Content-Type": [
+                  "text/html; charset\u003dutf-8"
+                ],
+                "Content-Length": [
+                  "180"
+                ],
+                "Date": [
+                  "Fri, 03 Sep 2021 23:52:52 GMT"
+                ],
+                "Connection": [
+                  "keep-alive"
+                ],
+                "Keep-Alive": [
+                  "timeout\u003d5"
+                ],
+                "OkHttp-Sent-Millis": [
+                  "1630713172573"
+                ],
+                "OkHttp-Received-Millis": [
+                  "1630713172573"
+                ]
+              },
+              "statusCode": 404,
+              "validationErrors": []
+            },
+            "httpMethod": "GET",
+            "operationId": "bessjUsingGET",
+            "parameters": [
+              {
+                "className": "java.lang.Integer",
+                "parameterName": "n",
+                "sanitizedName": "n",
+                "value": -1952092273
+              },
+              {
+                "className": "java.lang.Double",
+                "parameterName": "x",
+                "sanitizedName": "x",
+                "value": 1.2222874355964675
+              }
+            ],
+            "statusCode": 404
+          }
+        ],
+        "authentication": {
+          "authenticated": false
+        }
+      },
+      {
+        "testSteps": [
+          {
+            "executionResult": {
+              "requestHeaders": {
+                "Accept": [
+                  "application/json"
+                ],
+                "Content-Type": [
+                  "application/json"
+                ],
+                "User-Agent": [
+                  "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0"
+                ]
+              },
+              "requestUrl": "http://localhost:20172//api/bessj/32/2.89128273792546",
+              "responseBody": "\u003c!DOCTYPE html\u003e\n\u003chtml lang\u003d\"en\"\u003e\n\u003chead\u003e\n\u003cmeta charset\u003d\"utf-8\"\u003e\n\u003ctitle\u003eError\u003c/title\u003e\n\u003c/head\u003e\n\u003cbody\u003e\n\u003cpre\u003eCannot GET //api/bessj/32/2.89128273792546\u003c/pre\u003e\n\u003c/body\u003e\n\u003c/html\u003e\n",
+              "responseHeaders": {
+                "X-Powered-By": [
+                  "Express"
+                ],
+                "Content-Security-Policy": [
+                  "default-src \u0027none\u0027"
+                ],
+                "X-Content-Type-Options": [
+                  "nosniff"
+                ],
+                "Content-Type": [
+                  "text/html; charset\u003dutf-8"
+                ],
+                "Content-Length": [
+                  "169"
+                ],
+                "Date": [
+                  "Fri, 03 Sep 2021 23:52:52 GMT"
+                ],
+                "Connection": [
+                  "keep-alive"
+                ],
+                "Keep-Alive": [
+                  "timeout\u003d5"
+                ],
+                "OkHttp-Sent-Millis": [
+                  "1630713172588"
+                ],
+                "OkHttp-Received-Millis": [
+                  "1630713172588"
+                ]
+              },
+              "statusCode": 404,
+              "validationErrors": []
+            },
+            "httpMethod": "GET",
+            "operationId": "bessjUsingGET",
+            "parameters": [
+              {
+                "className": "java.lang.Integer",
+                "parameterName": "n",
+                "sanitizedName": "n",
+                "value": 32
+              },
+              {
+                "className": "java.lang.Double",
+                "parameterName": "x",
+                "sanitizedName": "x",
+                "value": 2.89128273792546
+              }
+            ],
+            "statusCode": 404
+          }
+        ],
+        "authentication": {
+          "authenticated": false
+        }
+      },
+      {
+        "testSteps": [
+          {
+            "executionResult": {
+              "requestHeaders": {
+                "Accept": [
+                  "application/json"
+                ],
+                "Content-Type": [
+                  "application/json"
+                ],
+                "User-Agent": [
+                  "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0"
+                ]
+              },
+              "requestUrl": "http://localhost:20172//api/bessj/-1312337462/1.8034164141240668E9",
+              "responseBody": "\u003c!DOCTYPE html\u003e\n\u003chtml lang\u003d\"en\"\u003e\n\u003chead\u003e\n\u003cmeta charset\u003d\"utf-8\"\u003e\n\u003ctitle\u003eError\u003c/title\u003e\n\u003c/head\u003e\n\u003cbody\u003e\n\u003cpre\u003eCannot GET //api/bessj/-1312337462/1.8034164141240668E9\u003c/pre\u003e\n\u003c/body\u003e\n\u003c/html\u003e\n",
+              "responseHeaders": {
+                "X-Powered-By": [
+                  "Express"
+                ],
+                "Content-Security-Policy": [
+                  "default-src \u0027none\u0027"
+                ],
+                "X-Content-Type-Options": [
+                  "nosniff"
+                ],
+                "Content-Type": [
+                  "text/html; charset\u003dutf-8"
+                ],
+                "Content-Length": [
+                  "182"
+                ],
+                "Date": [
+                  "Fri, 03 Sep 2021 23:52:52 GMT"
+                ],
+                "Connection": [
+                  "keep-alive"
+                ],
+                "Keep-Alive": [
+                  "timeout\u003d5"
+                ],
+                "OkHttp-Sent-Millis": [
+                  "1630713172588"
+                ],
+                "OkHttp-Received-Millis": [
+                  "1630713172588"
+                ]
+              },
+              "statusCode": 404,
+              "validationErrors": []
+            },
+            "httpMethod": "GET",
+            "operationId": "bessjUsingGET",
+            "parameters": [
+              {
+                "className": "java.lang.Integer",
+                "parameterName": "n",
+                "sanitizedName": "n",
+                "value": -1312337462
+              },
+              {
+                "className": "java.lang.Double",
+                "parameterName": "x",
+                "sanitizedName": "x",
+                "value": 1.8034164141240668E9
+              }
+            ],
+            "statusCode": 404
+          }
+        ],
+        "authentication": {
+          "authenticated": false
+        }
+      },
+      {
+        "testSteps": [
+          {
+            "executionResult": {
+              "requestHeaders": {
+                "Accept": [
+                  "application/json"
+                ],
+                "Content-Type": [
+                  "application/json"
+                ],
+                "User-Agent": [
+                  "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0"
+                ]
+              },
+              "requestUrl": "http://localhost:20172//api/bessj/1840924792/-1.6783113074633298E9",
+              "responseBody": "\u003c!DOCTYPE html\u003e\n\u003chtml lang\u003d\"en\"\u003e\n\u003chead\u003e\n\u003cmeta charset\u003d\"utf-8\"\u003e\n\u003ctitle\u003eError\u003c/title\u003e\n\u003c/head\u003e\n\u003cbody\u003e\n\u003cpre\u003eCannot GET //api/bessj/1840924792/-1.6783113074633298E9\u003c/pre\u003e\n\u003c/body\u003e\n\u003c/html\u003e\n",
+              "responseHeaders": {
+                "X-Powered-By": [
+                  "Express"
+                ],
+                "Content-Security-Policy": [
+                  "default-src \u0027none\u0027"
+                ],
+                "X-Content-Type-Options": [
+                  "nosniff"
+                ],
+                "Content-Type": [
+                  "text/html; charset\u003dutf-8"
+                ],
+                "Content-Length": [
+                  "182"
+                ],
+                "Date": [
+                  "Fri, 03 Sep 2021 23:52:52 GMT"
+                ],
+                "Connection": [
+                  "keep-alive"
+                ],
+                "Keep-Alive": [
+                  "timeout\u003d5"
+                ],
+                "OkHttp-Sent-Millis": [
+                  "1630713172588"
+                ],
+                "OkHttp-Received-Millis": [
+                  "1630713172588"
+                ]
+              },
+              "statusCode": 404,
+              "validationErrors": []
+            },
+            "httpMethod": "GET",
+            "operationId": "bessjUsingGET",
+            "parameters": [
+              {
+                "className": "java.lang.Integer",
+                "parameterName": "n",
+                "sanitizedName": "n",
+                "value": 1840924792
+              },
+              {
+                "className": "java.lang.Double",
+                "parameterName": "x",
+                "sanitizedName": "x",
+                "value": -1.6783113074633298E9
+              }
+            ],
+            "statusCode": 404
+          }
+        ],
+        "authentication": {
+          "authenticated": false
+        }
+      },
+      {
+        "testSteps": [
+          {
+            "executionResult": {
+              "requestHeaders": {
+                "Accept": [
+                  "application/json"
+                ],
+                "Content-Type": [
+                  "application/json"
+                ],
+                "User-Agent": [
+                  "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0"
+                ]
+              },
+              "requestUrl": "http://localhost:20172//api/bessj/5/7.881983506001859",
+              "responseBody": "\u003c!DOCTYPE html\u003e\n\u003chtml lang\u003d\"en\"\u003e\n\u003chead\u003e\n\u003cmeta charset\u003d\"utf-8\"\u003e\n\u003ctitle\u003eError\u003c/title\u003e\n\u003c/head\u003e\n\u003cbody\u003e\n\u003cpre\u003eCannot GET //api/bessj/5/7.881983506001859\u003c/pre\u003e\n\u003c/body\u003e\n\u003c/html\u003e\n",
+              "responseHeaders": {
+                "X-Powered-By": [
+                  "Express"
+                ],
+                "Content-Security-Policy": [
+                  "default-src \u0027none\u0027"
+                ],
+                "X-Content-Type-Options": [
+                  "nosniff"
+                ],
+                "Content-Type": [
+                  "text/html; charset\u003dutf-8"
+                ],
+                "Content-Length": [
+                  "169"
+                ],
+                "Date": [
+                  "Fri, 03 Sep 2021 23:52:52 GMT"
+                ],
+                "Connection": [
+                  "keep-alive"
+                ],
+                "Keep-Alive": [
+                  "timeout\u003d5"
+                ],
+                "OkHttp-Sent-Millis": [
+                  "1630713172588"
+                ],
+                "OkHttp-Received-Millis": [
+                  "1630713172588"
+                ]
+              },
+              "statusCode": 404,
+              "validationErrors": []
+            },
+            "httpMethod": "GET",
+            "operationId": "bessjUsingGET",
+            "parameters": [
+              {
+                "className": "java.lang.Integer",
+                "parameterName": "n",
+                "sanitizedName": "n",
+                "value": 5
+              },
+              {
+                "className": "java.lang.Double",
+                "parameterName": "x",
+                "sanitizedName": "x",
+                "value": 7.881983506001859
+              }
+            ],
+            "statusCode": 404
+          }
+        ],
+        "authentication": {
+          "authenticated": false
+        }
+      }
+    ],
+    "200": []
+  },
+  "target": {
+    "httpMethod": "GET",
+    "invocationClassName": "NcsRestApi",
+    "invocationMethodName": "bessjUsingGETWithHttpInfo",
+    "operationId": "bessjUsingGET",
+    "operationPath": "/api/bessj/{n}/{x}"
+  }
+}
