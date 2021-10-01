@@ -3,12 +3,12 @@
 In this package, we provide necessary information for replicating the experiment in the paper that includes 
 
 
-- [EvoMaster](EvoMaster): tools described in the paper with our js instrumentation and test writer.
+- [EvoMaster](EvoMaster): tools described in the paper with our js instrumentation and js test writer.
 - [jar](jar): runnable jar for EvoMaster.
 - [EMB-js](EMB-js): five NodeJS case studies employed for the experiment.
 - [build.py](build.py): a python script to build tools and all five case studies.
 - [run.sh](run.sh) and [runBB.sh](runBB.sh): examples to run our tool on __ncs-js__ case study.
-- [Results](results): raw results.
+- [Results](results): raw data.
 - [r-script](r-script): a R script to analyze results and generate table and figures reported in the paper.
 
 ### Implementation clarification
